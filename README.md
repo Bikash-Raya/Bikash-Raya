@@ -5,8 +5,8 @@
 
 Currently working in IT support and actively transitioning into cybersecurity. I’m building hands-on experience through labs, simulations, and projects focused on SIEM and threat detection. Keen to learn, develop practical skills, and start my journey in a SOC or cybersecurity role.
 
-## Project
-Forage_Virtual_SOC_Internship_Projects
+## SOC Simulation Project
+#Forage_Virtual_SOC_Internship_Projects
 
 Datacom (APT Breach: Analysing the Impact on Information Security, Cybersecurity Risk Assessment)<br>
 https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Datacom/yTszJTvkHFBH6zAn3_Datacom_HG5z6cFBsTiHgMNhb_1702609391245_completion_certificate.pdf
