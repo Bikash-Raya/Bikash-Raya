@@ -1,4 +1,4 @@
-<h1 align="center">🔒 Bikash Raya</h1>
+<h1 align="center"> Bikash Raya</h1>
 <h3 align="center">Aspiring SOC Analyst | Cybersecurity Enthusiast</h3>
 
 <p align="center">
