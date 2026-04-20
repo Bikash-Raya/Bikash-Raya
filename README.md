@@ -74,7 +74,24 @@ Python | Git | GitHub
 ## 🎓 Certifications
 
 * CompTIA Security+ * https://www.credly.com/badges/f489e367-4616-4da9-b3d1-fa2217abc36e
-* Forage Cybersecurity Virtual Experience Programs
+
+*Google Cybersecurity Professional Certificate V2 https://www.credly.com/badges/43176bd9-b0f9-4f68-8dfb-d91f18e5b55e/linked_in_profile
+
+*SC 200 Microsoft Security Operations Analyst https://www.udemy.com/certificate/UC-fab0f971-1d91-44f7-83e9-56952a75d336/
+
+# Forage Virtual Internships #
+*   Tata - Cybersecurity Analyst Job Simulation https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gmf3ypEXBj2wvfQWC_ifobHAoMjQs9s6bKS_HG5z6cFBsTiHgMNhb_1776147302554_completion_certificate.pdf
+
+* AIG - Shields Up: Cybersecurity Job Simulation https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/AIG/2ZFnEGEDKTQMtEv9C_AIG_HG5z6cFBsTiHgMNhb_1702523682604_completion_certificate.pdf
+
+* ANZ Australia - Cyber Security Management Job Simulation https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ANZ/Hf4QMESoFeQwXPsiH_ANZ%20Australia_HG5z6cFBsTiHgMNhb_1702344768941_completion_certificate.pdf
+
+* Mastercard - Cybersecurity Job Simulation https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_HG5z6cFBsTiHgMNhb_1702348419111_completion_certificate.pdf
+
+* Telstra - Cybersecurity Job Simulation https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Telstra%20AU/RNhbu8QnDzthwynEf_Telstra_HG5z6cFBsTiHgMNhb_1701832539937_completion_certificate.pdf
+
+* Datacom - Cybersecurity Job Simulation
+* https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Datacom/yTszJTvkHFBH6zAn3_Datacom_HG5z6cFBsTiHgMNhb_1702609391245_completion_certificate.pdf
 
 
 ---
