@@ -10,7 +10,11 @@ Currently working in IT support and actively transitioning into cybersecurity. I
 
 Datacom (APT Breach: Analysing the Impact on Information Security, Cybersecurity Risk Assessment)<br>
 (https://github.com/Bikash-Raya/Datacom-Cybersecurity-Job-Simulation)
+
+
 ## Certifications
 <div>
  <a href="https://www.credly.com/badges/f489e367-4616-4da9-b3d1-fa2217abc36e/linked_in_profile"
+  <a href ="https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gmf3ypEXBj2wvfQWC_ifobHAoMjQs9s6bKS_HG5z6cFBsTiHgMNhb_1776147302554_completion_certificate.pdf"
+  
 </div>
