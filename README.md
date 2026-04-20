@@ -1,31 +1,40 @@
-# 🔒 Bikash Raya | Aspiring SOC Analyst
+<h1 align="center">🔒 Bikash Raya</h1>
+<h3 align="center">Aspiring SOC Analyst | Cybersecurity Enthusiast</h3>
 
+<p align="center">
 <a href="https://www.linkedin.com/in/bikash-raya/">
-  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+<img src="https://img.shields.io/badge/Focus-SOC%20Analyst-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Actively%20Learning-brightgreen?style=for-the-badge"/>
+</p>
 
 ---
 
 ## 🧭 Professional Summary
 
-IT Support professional transitioning into **Cybersecurity (SOC Analyst pathway)** with hands-on experience in:
+💻 IT Support professional transitioning into **Cybersecurity (SOC Analyst pathway)** with hands-on exposure to:
 
-* SIEM-based threat detection
-* Phishing analysis & incident investigation
-* Security risk assessment
-* Log analysis and alert triage
+* 🔍 SIEM-based threat detection
+* 🎣 Phishing analysis & incident investigation
+* ⚠️ Security risk assessment
+* 📊 Log analysis & alert triage
 
-Actively building practical SOC skills through labs, simulations, and projects. Seeking an **entry-level SOC Analyst / Cybersecurity role**.
+🚀 Actively building real-world SOC skills through labs, simulations, and projects.
+🎯 Targeting **entry-level SOC Analyst / Cybersecurity roles**
 
 ---
 
 ## 🛠️ Core Skills
 
-```
-SIEM | Threat Detection | Incident Response | Log Analysis  
-Phishing Analysis | Risk Assessment | Network Analysis  
-Python | Security Fundamentals | Troubleshooting  
-```
+<p align="center">
+<img src="https://img.shields.io/badge/SIEM-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Threat%20Detection-red?style=flat-square"/>
+<img src="https://img.shields.io/badge/Incident%20Response-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/Log%20Analysis-green?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-yellow?style=flat-square"/>
+<img src="https://img.shields.io/badge/Networking-lightgrey?style=flat-square"/>
+</p>
 
 ---
 
@@ -35,9 +44,9 @@ Python | Security Fundamentals | Troubleshooting
 
 🔗 https://github.com/Bikash-Raya/Datacom-Cybersecurity-Job-Simulation
 
-* Analysed Advanced Persistent Threat (APT) activity
-* Identified vulnerabilities and business risks
-* Produced a structured risk assessment report
+* Analysed **APT attack scenarios** and security posture
+* Identified vulnerabilities and assessed business impact
+* Delivered structured **risk assessment report**
 
 ---
 
@@ -46,8 +55,8 @@ Python | Security Fundamentals | Troubleshooting
 🔗 https://github.com/Bikash-Raya/ANZ-Cyber-Security-Job-Simulation
 
 * Investigated suspicious logs and activity patterns
-* Applied detection logic for potential threats
-* Documented findings in SOC-style reporting
+* Applied detection logic to identify threats
+* Produced **SOC-style incident reports**
 
 ---
 
@@ -55,60 +64,75 @@ Python | Security Fundamentals | Troubleshooting
 
 🔗 https://github.com/Bikash-Raya/Mastercard-Cybersecurity-Job-Simulation-Forage-
 
-* Analysed security alerts and prioritised incidents
-* Demonstrated incident response lifecycle understanding
-* Strengthened SOC investigation methodology
+* Analysed and prioritised security alerts
+* Applied **incident response lifecycle concepts**
+* Strengthened investigation and triage methodology
 
 ---
 
 ## 🧰 Tools & Technologies
 
-```
-Splunk | Wireshark | Microsoft Sentinel |
-Windows | Linux | Networking Fundamentals  
-Python | Git | GitHub  
-```
+<p align="center">
+<img src="https://img.shields.io/badge/Splunk-black?style=for-the-badge&logo=splunk"/>
+<img src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux"/>
+<img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python"/>
+</p>
+
+---
+## 🎓 Certifications
+
+* 🛡️ **CompTIA Security+**
+  🔗 https://www.credly.com/badges/f489e367-4616-4da9-b3d1-fa2217abc36e
+
+* 🔐 **Google Cybersecurity Professional Certificate**
+  🔗 https://www.credly.com/badges/43176bd9-b0f9-4f68-8dfb-d91f18e5b55e/linked_in_profile
+
+* ☁️ **Microsoft SC-200: Security Operations Analyst**
+  🔗 https://www.udemy.com/certificate/UC-fab0f971-1d91-44f7-83e9-56952a75d336/
 
 ---
 
-## 🎓 Certifications
+## 🧪 Forage Virtual Internships
 
-* CompTIA Security+ * https://www.credly.com/badges/f489e367-4616-4da9-b3d1-fa2217abc36e
+📌 *Hands-on job simulations replicating real-world cybersecurity tasks from leading companies*
 
-*Google Cybersecurity Professional Certificate V2 https://www.credly.com/badges/43176bd9-b0f9-4f68-8dfb-d91f18e5b55e/linked_in_profile
+* 🏢 **Tata – Cybersecurity Analyst Job Simulation**
+  🔗 https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gmf3ypEXBj2wvfQWC_ifobHAoMjQs9s6bKS_HG5z6cFBsTiHgMNhb_1776147302554_completion_certificate.pdf
 
-*SC 200 Microsoft Security Operations Analyst https://www.udemy.com/certificate/UC-fab0f971-1d91-44f7-83e9-56952a75d336/
+* 🛡️ **AIG – Shields Up Cybersecurity Simulation**
+  🔗 https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/AIG/2ZFnEGEDKTQMtEv9C_AIG_HG5z6cFBsTiHgMNhb_1702523682604_completion_certificate.pdf
 
-# Forage Virtual Internships #
-*   Tata - Cybersecurity Analyst Job Simulation https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gmf3ypEXBj2wvfQWC_ifobHAoMjQs9s6bKS_HG5z6cFBsTiHgMNhb_1776147302554_completion_certificate.pdf
+* 🏦 **ANZ Australia – Cyber Security Management Simulation**
+  🔗 https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ANZ/Hf4QMESoFeQwXPsiH_ANZ%20Australia_HG5z6cFBsTiHgMNhb_1702344768941_completion_certificate.pdf
 
-* AIG - Shields Up: Cybersecurity Job Simulation https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/AIG/2ZFnEGEDKTQMtEv9C_AIG_HG5z6cFBsTiHgMNhb_1702523682604_completion_certificate.pdf
+* 💳 **Mastercard – Cybersecurity Job Simulation**
+  🔗 https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_HG5z6cFBsTiHgMNhb_1702348419111_completion_certificate.pdf
 
-* ANZ Australia - Cyber Security Management Job Simulation https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ANZ/Hf4QMESoFeQwXPsiH_ANZ%20Australia_HG5z6cFBsTiHgMNhb_1702344768941_completion_certificate.pdf
+* 📡 **Telstra – Cybersecurity Job Simulation**
+  🔗 https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Telstra%20AU/RNhbu8QnDzthwynEf_Telstra_HG5z6cFBsTiHgMNhb_1701832539937_completion_certificate.pdf
 
-* Mastercard - Cybersecurity Job Simulation https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_HG5z6cFBsTiHgMNhb_1702348419111_completion_certificate.pdf
-
-* Telstra - Cybersecurity Job Simulation https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Telstra%20AU/RNhbu8QnDzthwynEf_Telstra_HG5z6cFBsTiHgMNhb_1701832539937_completion_certificate.pdf
-
-* Datacom - Cybersecurity Job Simulation
-* https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Datacom/yTszJTvkHFBH6zAn3_Datacom_HG5z6cFBsTiHgMNhb_1702609391245_completion_certificate.pdf
-
+* 🖥️ **Datacom – Cybersecurity Job Simulation**
+  🔗 https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Datacom/yTszJTvkHFBH6zAn3_Datacom_HG5z6cFBsTiHgMNhb_1702609391245_completion_certificate.pdf
 
 ---
 
 ## 🚀 Current Focus
 
-* Building SOC lab environment (SIEM + log ingestion)
-* Practicing threat detection (MITRE ATT&CK aligned)
-* Improving incident investigation workflows
+* 🧠 Building **SOC Home Lab (SIEM + log ingestion)**
+* 🎯 Practicing detection using **MITRE ATT&CK**
+* 🔍 Improving **incident investigation workflows**
 
 ---
 
 ## 📫 Contact
 
-* LinkedIn: https://www.linkedin.com/in/bikash-raya/
-* GitHub: https://github.com/Bikash-Raya
+* 🔗 LinkedIn: https://www.linkedin.com/in/bikash-raya/
+* 💻 GitHub: https://github.com/Bikash-Raya
 
 ---
 
-⭐ Open to entry-level SOC Analyst / Cybersecurity roles
+<p align="center">
+⭐ <b>Open to SOC Analyst / Cybersecurity opportunities</b>
+</p>
