@@ -15,10 +15,10 @@
 
 💻 IT Support professional transitioning into **Cybersecurity** with hands-on exposure to:
 
-* 🔍 SIEM-based threat detection
-* 🎣 Phishing analysis & incident investigation
-* ⚠️ Security risk assessment
-* 📊 Log analysis & alert triage
+* SIEM-based threat detection
+* Phishing analysis & incident investigation
+* Security risk assessment
+* Log analysis & alert triage
 
 🚀 Actively building real-world SOC skills through labs, simulations, and projects.
 🎯 Targeting **entry-level SOC Analyst / Cybersecurity roles**
