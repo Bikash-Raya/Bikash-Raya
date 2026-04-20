@@ -13,7 +13,7 @@
 
 ## 🧭 Professional Summary
 
-💻 IT Support professional transitioning into **Cybersecurity ** with hands-on exposure to:
+💻 IT Support professional transitioning into **Cybersecurity** with hands-on exposure to:
 
 * 🔍 SIEM-based threat detection
 * 🎣 Phishing analysis & incident investigation
