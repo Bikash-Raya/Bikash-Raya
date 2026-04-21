@@ -42,13 +42,27 @@
 ## 🛠️ Core Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/IT Desktop Support Engineer-brightgreen?style=flat-square"/>
-<img src="https://img.shields.io/badge/SIEM-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Threat%20Detection-red?style=flat-square"/>
-<img src="https://img.shields.io/badge/Incident%20Response-orange?style=flat-square"/>
-<img src="https://img.shields.io/badge/Log%20Analysis-green?style=flat-square"/>
-<img src="https://img.shields.io/badge/Python-yellow?style=flat-square"/>
-<img src="https://img.shields.io/badge/Networking-lightgrey?style=flat-square"/>
+  <img src="https://img.shields.io/badge/IT%20Support-brightgreen?style=flat-square"/>
+  
+  <img src="https://img.shields.io/badge/Identity%20and%20Access%20Management-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Network%20Security-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Risk%20%26%20Compliance-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Incident%20Response-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Vulnerability%20Management-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Cryptography-green?style=flat-square"/>
+  <img src="https://img.shields.io/badge/SIEM%20%26%20Log%20Analysis-green?style=flat-square"/>
+
+  <img src="https://img.shields.io/badge/Microsoft%20Intune-0078D4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Entra%20ID-5C2D91?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat-square"/>
+
+  <img src="https://img.shields.io/badge/Citrix-0080C6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/VMware-607078?style=flat-square"/>
+  <img src="https://img.shields.io/badge/PaperCut-FF6A00?style=flat-square"/>
+
+  <img src="https://img.shields.io/badge/Networking-lightgrey?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Powershell-yellow?style=flat-square"/>
 </p>
 
 ---
