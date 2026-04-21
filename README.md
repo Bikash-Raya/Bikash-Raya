@@ -15,13 +15,13 @@
 </p>
 <p align="center">
 
-<img src="https://img.shields.io/badge/Homelabs-Azure%20%2B%20Windows%20Practice-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Homelabs-blueviolet?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/TryHackMe-Security%20Labs-red?style=for-the-badge&logo=tryhackme&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Simulations-SOC%20%2F%20Blue%20Team-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Forage-Virtual Security job simulations-orange?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Projects-Cloud%20%26%20Cybersecurity%20Builds-brightgreen?style=for-the-badge"/>
+
 
 </p>
 
