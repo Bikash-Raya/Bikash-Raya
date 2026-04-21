@@ -28,6 +28,7 @@
 ## 🛠️ Core Skills
 
 <p align="center">
+  <img src="https://img.shields.io/badge/IT Desktop Support Engineer-brightgreen?style=flat-square"/>
 <img src="https://img.shields.io/badge/SIEM-blue?style=flat-square"/>
 <img src="https://img.shields.io/badge/Threat%20Detection-red?style=flat-square"/>
 <img src="https://img.shields.io/badge/Incident%20Response-orange?style=flat-square"/>
