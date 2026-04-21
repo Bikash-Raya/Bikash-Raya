@@ -38,7 +38,17 @@
 
 ---
 
-## 🧪 Cybersecurity Projects
+
+## 🧪  Projects
+
+###☁️ Azure Windows 11 VM Deployment & Administration
+
+🔗 Azure-Cloud-Windows-11-Virtual-Machine-Deployment-RDP-Administration-User-Lifecycle-Management-RBAC-
+
+* Deployed and configured a Windows 11 virtual machine in Microsoft Azure
+* Performed RDP configuration, user management, and IAM/RBAC setup
+* Installed essential software and handled troubleshooting and system administration tasks
+* Managed full resource lifecycle including shutdown and decommissioning
 
 ### 🛡️ Datacom Cybersecurity Simulation
 
