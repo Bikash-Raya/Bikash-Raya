@@ -1,11 +1,12 @@
 <h1 align="center"> Bikash Raya</h1>
-<h3 align="center">Aspiring SOC Analyst | Cybersecurity Enthusiast</h3>
+<h3 align="center"> IT Desktop Support Engineer | Cybersecurity Enthusiast</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/bikash-raya/">
   <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<img src="https://img.shields.io/badge/Focus-SOC%20Analyst-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Current Role-IT Desktop Support Engineer-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Carrer Goal-Cybersecurity-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Status-Actively%20Learning-brightgreen?style=for-the-badge"/>
 </p>
 
