@@ -108,18 +108,6 @@
 * Strengthened investigation and triage methodology
 
 ---
-
-## 🧰 Tools & Technologies
-
-<p align="center">
-<img src="https://img.shields.io/badge/Splunk-black?style=for-the-badge&logo=splunk"/>
-<img src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux"/>
-<img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python"/>
-</p>
-
----
 ## 🎓 Certifications
 
 * 🛡️ **CompTIA Security+**
