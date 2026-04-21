@@ -7,11 +7,11 @@
   <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<img src="https://img.shields.io/badge/Role-IT%20Desktop%20Support-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Current%20Role-IT%20Desktop%20Support-blue?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Focus-Cybersecurity%20%26%20SOC-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Career%20Focus-Cybersecurity-orange?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Status-Actively%20Building%20Projects-brightgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Actively%20Learning-brightgreen?style=for-the-badge"/>
 </p>
 
 ---
