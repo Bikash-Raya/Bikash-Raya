@@ -1,6 +1,6 @@
 <h1 align="center">Bikash Raya</h1>
 
-<h3 align="center">IT Desktop Support Engineer | Cybersecurity Enthusiast </h3>
+<h3 align="center">IT Desktop Support Engineer | Comptia Security+ Certified | Cybersecurity Enthusiast </h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/bikash-raya/">
@@ -13,8 +13,18 @@
 
 <img src="https://img.shields.io/badge/Status-Actively%20Learning-brightgreen?style=for-the-badge"/>
 </p>
+<p align="center">
 
----
+<img src="https://img.shields.io/badge/Homelabs-Azure%20%2B%20Windows%20Practice-blueviolet?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/TryHackMe-Security%20Labs-red?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Simulations-SOC%20%2F%20Blue%20Team-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Projects-Cloud%20%26%20Cybersecurity%20Builds-brightgreen?style=for-the-badge"/>
+
+</p>
+
 
 ## 🧭 Professional Summary
 
@@ -25,8 +35,7 @@
 * Security risk assessment
 * Log analysis & alert triage
 
-🚀 Actively building real-world SOC skills through labs, simulations, and projects.
-🎯 Targeting **entry-level SOC Analyst / Cybersecurity roles**
+🎯 Actively developing skills through homelabs, TryHackMe, simulations, and hands-on projects. Preparing for cybersecurity roles.
 
 ---
 
