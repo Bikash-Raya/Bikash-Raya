@@ -91,6 +91,16 @@
 * Configured Role-Based Access Control (RBAC) using custom roles for delegated administration
 * Managed full cloud resource lifecycle including provisioning, configuration, and validation of access policies
 
+### 🏢 Enterprise IT Infrastructure Design & Deployment
+
+🔗 [StarTech-Business-College-IT-Infrastructure-Design-Deployment]([https://github.com/Bikash-Raya/YOUR-REPO-LINK](https://github.com/Bikash-Raya/IT-Infrastructure-Design-Deployment-Homelab-Project/tree/main)
+
+* Designed a complete enterprise IT infrastructure for a simulated college environment
+* Implemented network architecture including switches, access points, firewall, and structured cabling
+* Configured Active Directory with Organizational Units (OUs) and Role-Based Access Control (RBAC)
+* Integrated Microsoft 365 for cloud identity, user management, and productivity services
+* Performed system validation including authentication, connectivity, and security policy enforcement
+
 ### 🛡️ Datacom Cybersecurity Simulation
 
 🔗 https://github.com/Bikash-Raya/Datacom-Cybersecurity-Job-Simulation
