@@ -70,6 +70,7 @@
 
 ## 🧪  Projects
 
+
 ###☁️ Azure Windows 11 VM Deployment & Administration
 
 🔗 [Azure-Cloud-Windows-11-Virtual-Machine-Deployment-RDP-Administration-User-Lifecycle-Management-RBAC-](https://github.com/Bikash-Raya/Azure-Cloud-Windows-11-Virtual-Machine-Deployment-RDP-Administration-User-Lifecycle-Management-RBAC-)
@@ -78,6 +79,17 @@
 * Performed RDP configuration, user management, and IAM/RBAC setup
 * Installed essential software and handled troubleshooting and system administration tasks
 * Managed full resource lifecycle including shutdown and decommissioning
+
+
+### ☁️ Azure Cloud Environment Setup – Windows Server, Identity & RBAC (MoonTech)
+
+🔗 [https://github.com/Bikash-Raya/Azure_Cloud_Environment_Setup_Identity_-_RBAC_Implementation-]
+
+* Deployed and configured a Windows Server 2016 virtual machine in Microsoft Azure using Azure CLI
+* Created and managed users and security groups using Microsoft Entra ID
+* Implemented dynamic group membership based on user attributes for automated access control
+* Configured Role-Based Access Control (RBAC) using custom roles for delegated administration
+* Managed full cloud resource lifecycle including provisioning, configuration, and validation of access policies
 
 ### 🛡️ Datacom Cybersecurity Simulation
 
