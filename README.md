@@ -93,7 +93,7 @@
 
 ### 🏢 Enterprise IT Infrastructure Design & Deployment
 
-🔗 [StarTech-Business-College-IT-Infrastructure-Design-Deployment]([https://github.com/Bikash-Raya/YOUR-REPO-LINK](https://github.com/Bikash-Raya/IT-Infrastructure-Design-Deployment-Homelab-Project/tree/main)
+🔗 [https://github.com/Bikash-Raya/IT-Infrastructure-Design-Deployment-Homelab-Project/tree/main]
 
 * Designed a complete enterprise IT infrastructure for a simulated college environment
 * Implemented network architecture including switches, access points, firewall, and structured cabling
