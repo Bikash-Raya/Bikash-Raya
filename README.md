@@ -81,7 +81,7 @@
 * Managed full resource lifecycle including shutdown and decommissioning
 
 
-### ☁️ Azure Cloud Environment Setup – Windows Server, Identity & RBAC (MoonTech)
+### ☁️ Azure Cloud Environment Setup – Windows Server, Identity & RBAC
 
 🔗 [https://github.com/Bikash-Raya/Azure_Cloud_Environment_Setup_Identity_-_RBAC_Implementation-]
 
