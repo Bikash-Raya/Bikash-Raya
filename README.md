@@ -36,18 +36,22 @@ Currently building a **SOC home lab** with SIEM log ingestion and practising det
 ---
 
 ## 🧪 Projects
-
-| # | Project | Tools & Technologies | Repo |
-|---|---------|----------------------|------|
-| 1 | **Azure Windows 11 VM Deployment & Administration** | Azure · RDP · IAM · RBAC · Windows 11 | [🔗 View](https://github.com/Bikash-Raya/Azure-Cloud-Windows-11-Virtual-Machine-Deployment-RDP-Administration-User-Lifecycle-Management-RBAC-) |
-| 2 | **Azure Cloud Environment – Windows Server, Identity & RBAC** | Azure CLI · Windows Server 2016 · Entra ID · Dynamic Groups · RBAC | [🔗 View](https://github.com/Bikash-Raya/Azure_Cloud_Environment_Setup_Identity_-_RBAC_Implementation-) |
-| 3 | **Enterprise IT Infrastructure Design & Deployment** | Active Directory · Microsoft 365 · Firewall · Switching · OUs · RBAC | [🔗 View](https://github.com/Bikash-Raya/IT-Infrastructure-Design-Deployment-Homelab-Project/tree/main) |
-| 4 | **Datacom Cybersecurity Job Simulation** | APT Analysis · Risk Assessment · Threat Reporting | [🔗 View](https://github.com/Bikash-Raya/Datacom-Cybersecurity-Job-Simulation) |
-| 5 | **ANZ Cyber Security Job Simulation** | Log Analysis · Threat Detection · SOC Reporting | [🔗 View](https://github.com/Bikash-Raya/ANZ-Cyber-Security-Job-Simulation) |
-| 6 | **Mastercard Cybersecurity Simulation** | Alert Triage · Incident Response · Security Investigation | [🔗 View](https://github.com/Bikash-Raya/Mastercard-Cybersecurity-Job-Simulation-Forage-) |
-
----
-
+ 
+| Home Labs | Tools Used | Repo |
+|---------|------------|------|
+| **Microsoft Sentinel SIEM – SOC Lab** | Microsoft Sentinel · Azure · Log Analytics · KQL · MITRE ATT&CK | [🔗 View](https://github.com/Bikash-Raya/Microsoft-Sentinel-SIEM-SOC-Lab--Hybrid-Endpoint-Monitoring-Threat-Detection-and-Incident-Response) |
+| **On-Prem Homelab – AD, Domain Controller, Windows 11 & Linux** | Windows Server · Active Directory · Domain Controller · Windows 11 · Linux · GPO | [🔗 View](https://github.com/Bikash-Raya/Home-Lab--OnPrem-Windows-Server-Active-Directory-Domain-Controller-Windows-11-Linux) |
+| **Enterprise IT Infrastructure Design & Deployment** | Active Directory · Microsoft 365 · Firewall · OUs · RBAC | [🔗 View](https://github.com/Bikash-Raya/IT-Infrastructure-Design-Deployment-Homelab-Project) |
+| **Azure Cloud Environment – Identity & RBAC** | Azure CLI · Windows Server 2016 · Entra ID · Dynamic Groups · RBAC | [🔗 View](https://github.com/Bikash-Raya/Azure_Cloud_Environment_Setup_Identity_-_RBAC_Implementation-) |
+| **Azure Windows 11 VM – Full Lifecycle Administration** | Azure · RDP · Entra ID · RBAC | [🔗 View](https://github.com/Bikash-Raya/Azure-Cloud-Windows-11-Virtual-Machine-Deployment-RDP-Administration-User-Lifecycle-Management-RBAC-) |
+| | | |
+| **🏢 Forage Simulations** | | |
+| **Cybersecurity Analyst Simulation** *(Tata)* | Threat Analysis · Security Advisory · Risk Reporting | [🔗 Certificate](https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gmf3ypEXBj2wvfQWC_ifobHAoMjQs9s6bKS_HG5z6cFBsTiHgMNhb_1776147302554_completion_certificate.pdf) |
+| **Shields Up Cybersecurity Simulation** *(AIG · Forage)* | Incident Response · Vulnerability Assessment · Ransomware Analysis | [🔗 Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/AIG/2ZFnEGEDKTQMtEv9C_AIG_HG5z6cFBsTiHgMNhb_1702523682604_completion_certificate.pdf) |
+| **Cyber Security Management Simulation** *(ANZ · Forage)* | Log Analysis · Threat Detection · Incident Reporting | [🔗 Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ANZ/Hf4QMESoFeQwXPsiH_ANZ%20Australia_HG5z6cFBsTiHgMNhb_1702344768941_completion_certificate.pdf) |
+| **Cybersecurity Job Simulation** *(Mastercard · Forage)* | Alert Triage · Phishing Analysis · Security Awareness | [🔗 Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_HG5z6cFBsTiHgMNhb_1702348419111_completion_certificate.pdf) |
+| **Cybersecurity Job Simulation** *(Telstra · Forage)* | Network Security · Incident Triage · Malware Analysis | [🔗 Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Telstra%20AU/RNhbu8QnDzthwynEf_Telstra_HG5z6cFBsTiHgMNhb_1701832539937_completion_certificate.pdf) |
+| **Cybersecurity Job Simulation** *(Datacom · Forage)* | APT Analysis · Risk Assessment · Threat Reporting | [🔗 Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Datacom/yTszJTvkHFBH6zAn3_Datacom_HG5z6cFBsTiHgMNhb_1702609391245_completion_certificate.pdf) |
 ## 🎓 Certifications
 
 | Certification | Issuer | Link |
@@ -58,7 +62,7 @@ Currently building a **SOC home lab** with SIEM log ingestion and practising det
 
 ---
 
-## 🏢 Forage Virtual Internships
+## 🏢 Forage Cybersecurity Virtual Internships
 
 | Simulation | Company | Certificate |
 |------------|---------|-------------|
@@ -69,13 +73,6 @@ Currently building a **SOC home lab** with SIEM log ingestion and practising det
 | Cybersecurity Job Simulation | Telstra | [🔗 View](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Telstra%20AU/RNhbu8QnDzthwynEf_Telstra_HG5z6cFBsTiHgMNhb_1701832539937_completion_certificate.pdf) |
 | Cybersecurity Job Simulation | Datacom | [🔗 View](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Datacom/yTszJTvkHFBH6zAn3_Datacom_HG5z6cFBsTiHgMNhb_1702609391245_completion_certificate.pdf) |
 
----
-
-## 🚀 Currently Working On
-
-- 🧠 Building a **SOC Home Lab** (SIEM + log ingestion pipeline)
-- 🎯 Practising detection engineering with **MITRE ATT&CK**
-- 🔍 Refining **incident investigation workflows**
 
 ---
 
@@ -83,9 +80,3 @@ Currently building a **SOC home lab** with SIEM log ingestion and practising det
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bikash%20Raya-0072b1?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bikash-raya/)
 [![GitHub](https://img.shields.io/badge/GitHub-Bikash--Raya-181717?style=flat-square&logo=github)](https://github.com/Bikash-Raya)
-
----
-
-<p align="center">
-  <b>⭐ Open to SOC Analyst and Cybersecurity opportunities</b>
-</p>
