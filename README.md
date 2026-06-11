@@ -1,187 +1,90 @@
 <h1 align="center">Bikash Raya</h1>
 
-<h3 align="center">IT Desktop Support Engineer | Comptia Security+ Certified | Cybersecurity Enthusiast </h3>
+<h3 align="center">IT Desktop Support Engineer → Cybersecurity | CompTIA Security+ Certified</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/bikash-raya/">
-  <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<img src="https://img.shields.io/badge/Current%20Role-IT%20Desktop%20Support-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Career%20Focus-Cybersecurity-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Status-Actively%20Learning-brightgreen?style=for-the-badge"/>
-</p>
-<p align="center">
-
-
-
-<img src="https://img.shields.io/badge/TryHackMe-Security%20Labs-red?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Forage-Virtual Security job simulations-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Homelabs-blueviolet?style=for-the-badge"/>
-
-</p>
-
-
-## 🧭 Professional Summary
-
-💻 IT Support professional transitioning into **Cybersecurity** with hands-on exposure to:
-
-* SIEM-based threat detection
-* Phishing analysis & incident investigation
-* Security risk assessment
-* Log analysis & alert triage
-
-🎯 Actively developing skills through homelabs, TryHackMe, simulations, and hands-on projects. Preparing for cybersecurity roles.
-
----
-
-## 🛠️ Core Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/IT%20Support-brightgreen?style=flat-square"/>
-  
-  <img src="https://img.shields.io/badge/Identity%20and%20Access%20Management-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Network%20Security-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Risk%20%26%20Compliance-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Incident%20Response-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Vulnerability%20Management-red?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Cryptography-green?style=flat-square"/>
-  <img src="https://img.shields.io/badge/SIEM%20%26%20Log%20Analysis-green?style=flat-square"/>
-
-  <img src="https://img.shields.io/badge/Microsoft%20Intune-0078D4?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Entra%20ID-5C2D91?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat-square"/>
-
-  <img src="https://img.shields.io/badge/Citrix-0080C6?style=flat-square"/>
-  <img src="https://img.shields.io/badge/VMware-607078?style=flat-square"/>
-  <img src="https://img.shields.io/badge/PaperCut-FF6A00?style=flat-square"/>
-
-  <img src="https://img.shields.io/badge/Networking-lightgrey?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Powershell-yellow?style=flat-square"/>
+  <a href="https://www.linkedin.com/in/bikash-raya/">
+    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Current%20Role-IT%20Desktop%20Support-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Career%20Focus-Cybersecurity-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Actively%20Learning-brightgreen?style=for-the-badge"/>
 </p>
 
 ---
 
+## About Me
 
-## 🧪  Projects
+IT professional with **3+ years in desktop support** making a deliberate move into cybersecurity. I hold a **CompTIA Security+** and have applied skills hands-on through cloud labs, threat detection exercises, and infrastructure projects — not just coursework.
 
-
-### ☁️ Azure Windows 11 VM Deployment & Administration
-
-🔗 [Azure-Cloud-Windows-11-Virtual-Machine-Deployment-RDP-Administration-User-Lifecycle-Management-RBAC-](https://github.com/Bikash-Raya/Azure-Cloud-Windows-11-Virtual-Machine-Deployment-RDP-Administration-User-Lifecycle-Management-RBAC-)
-
-* Deployed and configured a Windows 11 virtual machine in Microsoft Azure
-* Performed RDP configuration, user management, and IAM/RBAC setup
-* Installed essential software and handled troubleshooting and system administration tasks
-* Managed full resource lifecycle including shutdown and decommissioning
-
-
-### ☁️ Azure Cloud Environment Setup – Windows Server, Identity & RBAC
-
-🔗 [https://github.com/Bikash-Raya/Azure_Cloud_Environment_Setup_Identity_-_RBAC_Implementation-]
-
-* Deployed and configured a Windows Server 2016 virtual machine in Microsoft Azure using Azure CLI
-* Created and managed users and security groups using Microsoft Entra ID
-* Implemented dynamic group membership based on user attributes for automated access control
-* Configured Role-Based Access Control (RBAC) using custom roles for delegated administration
-* Managed full cloud resource lifecycle including provisioning, configuration, and validation of access policies
-
-### 🏢 Enterprise IT Infrastructure Design & Deployment
-
-🔗 [https://github.com/Bikash-Raya/IT-Infrastructure-Design-Deployment-Homelab-Project/tree/main]
-
-* Designed a complete enterprise IT infrastructure for a simulated college environment
-* Implemented network architecture including switches, access points, firewall, and structured cabling
-* Configured Active Directory with Organizational Units (OUs) and Role-Based Access Control (RBAC)
-* Integrated Microsoft 365 for cloud identity, user management, and productivity services
-* Performed system validation including authentication, connectivity, and security policy enforcement
-
-### 🛡️ Datacom Cybersecurity Simulation
-
-🔗 https://github.com/Bikash-Raya/Datacom-Cybersecurity-Job-Simulation
-
-* Analysed **APT attack scenarios** and security posture
-* Identified vulnerabilities and assessed business impact
-* Delivered structured **risk assessment report**
+Currently building a **SOC home lab** with SIEM log ingestion and practising detection with **MITRE ATT\&CK**. Looking for a SOC Analyst or junior cybersecurity role where I can contribute from day one.
 
 ---
 
-### 🏦 ANZ Cyber Security Job Simulation
+## 🛠️ Skills
 
-🔗 https://github.com/Bikash-Raya/ANZ-Cyber-Security-Job-Simulation
+| Domain | Tools & Technologies |
+|--------|----------------------|
+| **Security** | Microsoft Sentinel · Microsoft Defender |
+| **Cloud & Identity** | Microsoft Azure · Entra ID · Intune · Microsoft 365 · RBAC |
+| **Vulnerability Management** | Nessus |
+| **Networking** | Network Security · Firewall · VLANs · VPNs  |
+| **Platforms** | Windows Server · Windows OS · Linux · VMware |
+| **Scripting** | PowerShell | Azure CLI |
 
-* Investigated suspicious logs and activity patterns
-* Applied detection logic to identify threats
-* Produced **SOC-style incident reports**
+---
+
+## 🧪 Projects
+
+| # | Project | Tools & Technologies | Repo |
+|---|---------|----------------------|------|
+| 1 | **Azure Windows 11 VM Deployment & Administration** | Azure · RDP · IAM · RBAC · Windows 11 | [🔗 View](https://github.com/Bikash-Raya/Azure-Cloud-Windows-11-Virtual-Machine-Deployment-RDP-Administration-User-Lifecycle-Management-RBAC-) |
+| 2 | **Azure Cloud Environment – Windows Server, Identity & RBAC** | Azure CLI · Windows Server 2016 · Entra ID · Dynamic Groups · RBAC | [🔗 View](https://github.com/Bikash-Raya/Azure_Cloud_Environment_Setup_Identity_-_RBAC_Implementation-) |
+| 3 | **Enterprise IT Infrastructure Design & Deployment** | Active Directory · Microsoft 365 · Firewall · Switching · OUs · RBAC | [🔗 View](https://github.com/Bikash-Raya/IT-Infrastructure-Design-Deployment-Homelab-Project/tree/main) |
+| 4 | **Datacom Cybersecurity Job Simulation** | APT Analysis · Risk Assessment · Threat Reporting | [🔗 View](https://github.com/Bikash-Raya/Datacom-Cybersecurity-Job-Simulation) |
+| 5 | **ANZ Cyber Security Job Simulation** | Log Analysis · Threat Detection · SOC Reporting | [🔗 View](https://github.com/Bikash-Raya/ANZ-Cyber-Security-Job-Simulation) |
+| 6 | **Mastercard Cybersecurity Simulation** | Alert Triage · Incident Response · Security Investigation | [🔗 View](https://github.com/Bikash-Raya/Mastercard-Cybersecurity-Job-Simulation-Forage-) |
 
 ---
 
-### 💳 Mastercard Cybersecurity Simulation
-
-🔗 https://github.com/Bikash-Raya/Mastercard-Cybersecurity-Job-Simulation-Forage-
-
-* Analysed and prioritised security alerts
-* Applied **incident response lifecycle concepts**
-* Strengthened investigation and triage methodology
-
----
 ## 🎓 Certifications
 
-* 🛡️ **CompTIA Security+**
-  🔗 https://www.credly.com/badges/f489e367-4616-4da9-b3d1-fa2217abc36e
-
-* 🔐 **Google Cybersecurity Professional Certificate**
-  🔗 https://www.credly.com/badges/43176bd9-b0f9-4f68-8dfb-d91f18e5b55e/linked_in_profile
-
-* ☁️ **Microsoft SC-200: Security Operations Analyst**
-  🔗 https://www.udemy.com/certificate/UC-fab0f971-1d91-44f7-83e9-56952a75d336/
+| Certification | Issuer | Link |
+|---------------|--------|------|
+| **CompTIA Security+** | CompTIA | [🔗 Verify](https://www.credly.com/badges/f489e367-4616-4da9-b3d1-fa2217abc36e) |
+| **Google Cybersecurity Professional Certificate** | Google | [🔗 Verify](https://www.credly.com/badges/43176bd9-b0f9-4f68-8dfb-d91f18e5b55e/linked_in_profile) |
+| **SC-200: Security Operations Analyst** | Microsoft (via Udemy) | [🔗 Verify](https://www.udemy.com/certificate/UC-fab0f971-1d91-44f7-83e9-56952a75d336/) |
 
 ---
 
-## 🧪 Forage Virtual Internships
+## 🏢 Forage Virtual Internships
 
-📌 *Hands-on job simulations replicating real-world cybersecurity tasks from leading companies*
-
-* 🏢 **Tata – Cybersecurity Analyst Job Simulation**
-  🔗 https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gmf3ypEXBj2wvfQWC_ifobHAoMjQs9s6bKS_HG5z6cFBsTiHgMNhb_1776147302554_completion_certificate.pdf
-
-* 🛡️ **AIG – Shields Up Cybersecurity Simulation**
-  🔗 https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/AIG/2ZFnEGEDKTQMtEv9C_AIG_HG5z6cFBsTiHgMNhb_1702523682604_completion_certificate.pdf
-
-* 🏦 **ANZ Australia – Cyber Security Management Simulation**
-  🔗 https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ANZ/Hf4QMESoFeQwXPsiH_ANZ%20Australia_HG5z6cFBsTiHgMNhb_1702344768941_completion_certificate.pdf
-
-* 💳 **Mastercard – Cybersecurity Job Simulation**
-  🔗 https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_HG5z6cFBsTiHgMNhb_1702348419111_completion_certificate.pdf
-
-* 📡 **Telstra – Cybersecurity Job Simulation**
-  🔗 https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Telstra%20AU/RNhbu8QnDzthwynEf_Telstra_HG5z6cFBsTiHgMNhb_1701832539937_completion_certificate.pdf
-
-* 🖥️ **Datacom – Cybersecurity Job Simulation**
-  🔗 https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Datacom/yTszJTvkHFBH6zAn3_Datacom_HG5z6cFBsTiHgMNhb_1702609391245_completion_certificate.pdf
+| Simulation | Company | Certificate |
+|------------|---------|-------------|
+| Cybersecurity Analyst | Tata | [🔗 View](https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gmf3ypEXBj2wvfQWC_ifobHAoMjQs9s6bKS_HG5z6cFBsTiHgMNhb_1776147302554_completion_certificate.pdf) |
+| Shields Up Cybersecurity | AIG | [🔗 View](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/AIG/2ZFnEGEDKTQMtEv9C_AIG_HG5z6cFBsTiHgMNhb_1702523682604_completion_certificate.pdf) |
+| Cyber Security Management | ANZ Australia | [🔗 View](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ANZ/Hf4QMESoFeQwXPsiH_ANZ%20Australia_HG5z6cFBsTiHgMNhb_1702344768941_completion_certificate.pdf) |
+| Cybersecurity Job Simulation | Mastercard | [🔗 View](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_HG5z6cFBsTiHgMNhb_1702348419111_completion_certificate.pdf) |
+| Cybersecurity Job Simulation | Telstra | [🔗 View](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Telstra%20AU/RNhbu8QnDzthwynEf_Telstra_HG5z6cFBsTiHgMNhb_1701832539937_completion_certificate.pdf) |
+| Cybersecurity Job Simulation | Datacom | [🔗 View](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Datacom/yTszJTvkHFBH6zAn3_Datacom_HG5z6cFBsTiHgMNhb_1702609391245_completion_certificate.pdf) |
 
 ---
 
-## 🚀 Current Focus
+## 🚀 Currently Working On
 
-* 🧠 Building **SOC Home Lab (SIEM + log ingestion)**
-* 🎯 Practicing detection using **MITRE ATT&CK**
-* 🔍 Improving **incident investigation workflows**
+- 🧠 Building a **SOC Home Lab** (SIEM + log ingestion pipeline)
+- 🎯 Practising detection engineering with **MITRE ATT&CK**
+- 🔍 Refining **incident investigation workflows**
 
 ---
 
-## 📫 Contact
+## 📫 Get in Touch
 
-* 🔗 LinkedIn: https://www.linkedin.com/in/bikash-raya/
-* 💻 GitHub: https://github.com/Bikash-Raya
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bikash%20Raya-0072b1?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bikash-raya/)
+[![GitHub](https://img.shields.io/badge/GitHub-Bikash--Raya-181717?style=flat-square&logo=github)](https://github.com/Bikash-Raya)
 
 ---
 
 <p align="center">
-⭐ <b>Open to SOC Analyst / Cybersecurity opportunities</b>
+  <b>⭐ Open to SOC Analyst and Cybersecurity opportunities</b>
 </p>
