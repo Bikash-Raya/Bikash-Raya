@@ -45,7 +45,7 @@ Currently building a **SOC home lab** with SIEM log ingestion and practising det
 | **Azure Cloud Environment – Identity & RBAC** | Azure CLI · Windows Server 2016 · Entra ID · Dynamic Groups · RBAC | [🔗 View](https://github.com/Bikash-Raya/Azure_Cloud_Environment_Setup_Identity_-_RBAC_Implementation-) |
 | **Azure Windows 11 VM – Full Lifecycle Administration** | Azure · RDP · Entra ID · RBAC | [🔗 View](https://github.com/Bikash-Raya/Azure-Cloud-Windows-11-Virtual-Machine-Deployment-RDP-Administration-User-Lifecycle-Management-RBAC-) |
 | | | |
-| **🏢 Forage Simulations** | | |
+| **🏢 Forage Cybersecurity Simulations** | | |
 | **Cybersecurity Analyst Simulation** *(Tata)* | Threat Analysis · Security Advisory · Risk Reporting | [🔗 Certificate](https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gmf3ypEXBj2wvfQWC_ifobHAoMjQs9s6bKS_HG5z6cFBsTiHgMNhb_1776147302554_completion_certificate.pdf) |
 | **Shields Up Cybersecurity Simulation** *(AIG · Forage)* | Incident Response · Vulnerability Assessment · Ransomware Analysis | [🔗 Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/AIG/2ZFnEGEDKTQMtEv9C_AIG_HG5z6cFBsTiHgMNhb_1702523682604_completion_certificate.pdf) |
 | **Cyber Security Management Simulation** *(ANZ · Forage)* | Log Analysis · Threat Detection · Incident Reporting | [🔗 Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ANZ/Hf4QMESoFeQwXPsiH_ANZ%20Australia_HG5z6cFBsTiHgMNhb_1702344768941_completion_certificate.pdf) |
