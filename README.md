@@ -8,7 +8,8 @@
   </a>
   <img src="https://img.shields.io/badge/Current%20Role-IT%20Desktop%20Support-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Career%20Focus-Cybersecurity-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-Actively%20Learning-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Actively%20Learning-brightgreen?style=for-the-badge"/> 
+    <img src="https://img.shields.io/badge/Open%20to%20Work-Cybersecurity%20Roles-brightgreen?style=for-the-badge"/>
 </p>
 
 ---
