@@ -35,23 +35,31 @@ Currently building a **SOC home lab** with SIEM log ingestion and practising det
 
 ---
 
-## 🧪 Projects
+## 🧪 Home Labs Projects
  
-| Home Labs | Tools Used | Repo |
+| Home Labs  | Tools Used | Repo |
 |---------|------------|------|
 | **Microsoft Sentinel SIEM – SOC Lab** | Microsoft Sentinel · Azure · Log Analytics · KQL · MITRE ATT&CK | [🔗 View](https://github.com/Bikash-Raya/Microsoft-Sentinel-SIEM-SOC-Lab--Hybrid-Endpoint-Monitoring-Threat-Detection-and-Incident-Response) |
 | **On-Prem Homelab – AD, Domain Controller, Windows 11 & Linux** | Windows Server · Active Directory · Domain Controller · Windows 11 · Linux · GPO | [🔗 View](https://github.com/Bikash-Raya/Home-Lab--OnPrem-Windows-Server-Active-Directory-Domain-Controller-Windows-11-Linux) |
 | **Enterprise IT Infrastructure Design & Deployment** | Active Directory · Microsoft 365 · Firewall · OUs · RBAC | [🔗 View](https://github.com/Bikash-Raya/IT-Infrastructure-Design-Deployment-Homelab-Project) |
 | **Azure Cloud Environment – Identity & RBAC** | Azure CLI · Windows Server 2016 · Entra ID · Dynamic Groups · RBAC | [🔗 View](https://github.com/Bikash-Raya/Azure_Cloud_Environment_Setup_Identity_-_RBAC_Implementation-) |
 | **Azure Windows 11 VM – Full Lifecycle Administration** | Azure · RDP · Entra ID · RBAC | [🔗 View](https://github.com/Bikash-Raya/Azure-Cloud-Windows-11-Virtual-Machine-Deployment-RDP-Administration-User-Lifecycle-Management-RBAC-) |
-| | | |
-| **🏢 Forage Cybersecurity Simulations** | | |
-| **Cybersecurity Analyst Simulation** *(Tata)* | Threat Analysis · Security Advisory · Risk Reporting | [🔗 Certificate](https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gmf3ypEXBj2wvfQWC_ifobHAoMjQs9s6bKS_HG5z6cFBsTiHgMNhb_1776147302554_completion_certificate.pdf) |
-| **Shields Up Cybersecurity Simulation** *(AIG · Forage)* | Incident Response · Vulnerability Assessment · Ransomware Analysis | [🔗 Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/AIG/2ZFnEGEDKTQMtEv9C_AIG_HG5z6cFBsTiHgMNhb_1702523682604_completion_certificate.pdf) |
-| **Cyber Security Management Simulation** *(ANZ · Forage)* | Log Analysis · Threat Detection · Incident Reporting | [🔗 Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ANZ/Hf4QMESoFeQwXPsiH_ANZ%20Australia_HG5z6cFBsTiHgMNhb_1702344768941_completion_certificate.pdf) |
-| **Cybersecurity Job Simulation** *(Mastercard · Forage)* | Alert Triage · Phishing Analysis · Security Awareness | [🔗 Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_HG5z6cFBsTiHgMNhb_1702348419111_completion_certificate.pdf) |
-| **Cybersecurity Job Simulation** *(Telstra · Forage)* | Network Security · Incident Triage · Malware Analysis | [🔗 Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Telstra%20AU/RNhbu8QnDzthwynEf_Telstra_HG5z6cFBsTiHgMNhb_1701832539937_completion_certificate.pdf) |
-| **Cybersecurity Job Simulation** *(Datacom · Forage)* | APT Analysis · Risk Assessment · Threat Reporting | [🔗 Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Datacom/yTszJTvkHFBH6zAn3_Datacom_HG5z6cFBsTiHgMNhb_1702609391245_completion_certificate.pdf) |
+
+---
+ 
+## 🏢 Forage Cybersecurity Virtual Internships
+ 
+| Simulation | Company | Tools Used | Repo | Certificate |
+|------------|---------|------------|------|-------------|
+| Cybersecurity Analyst | Tata | Threat Analysis · Security Advisory · Risk Reporting | — | [🔗 View](https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gmf3ypEXBj2wvfQWC_ifobHAoMjQs9s6bKS_HG5z6cFBsTiHgMNhb_1776147302554_completion_certificate.pdf) |
+| Shields Up Cybersecurity | AIG | Incident Response · Vulnerability Assessment · Ransomware Analysis | — | [🔗 View](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/AIG/2ZFnEGEDKTQMtEv9C_AIG_HG5z6cFBsTiHgMNhb_1702523682604_completion_certificate.pdf) |
+| Cyber Security Management | ANZ Australia | Log Analysis · Threat Detection · Incident Reporting | [🔗 Repo](https://github.com/Bikash-Raya/ANZ-Cyber-Security-Job-Simulation) | [🔗 View](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ANZ/Hf4QMESoFeQwXPsiH_ANZ%20Australia_HG5z6cFBsTiHgMNhb_1702344768941_completion_certificate.pdf) |
+| Cybersecurity Job Simulation | Mastercard | Alert Triage · Phishing Analysis · Security Awareness | [🔗 Repo](https://github.com/Bikash-Raya/Mastercard-Cybersecurity-Job-Simulation-Forage-) | [🔗 View](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_HG5z6cFBsTiHgMNhb_1702348419111_completion_certificate.pdf) |
+| Cybersecurity Job Simulation | Telstra | Network Security · Incident Triage · Malware Analysis | — | [🔗 View](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Telstra%20AU/RNhbu8QnDzthwynEf_Telstra_HG5z6cFBsTiHgMNhb_1701832539937_completion_certificate.pdf) |
+| Cybersecurity Job Simulation | Datacom | APT Analysis · Risk Assessment · Threat Reporting | [🔗 Repo](https://github.com/Bikash-Raya/Datacom-Cybersecurity-Job-Simulation) | [🔗 View](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Datacom/yTszJTvkHFBH6zAn3_Datacom_HG5z6cFBsTiHgMNhb_1702609391245_completion_certificate.pdf) |
+
+ 
+---
 ## 🎓 Certifications
 
 | Certification | Issuer | Link |
