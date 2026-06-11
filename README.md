@@ -16,22 +16,23 @@
 
 ## About Me
 
-IT professional with **3+ years in desktop support** making a deliberate move into cybersecurity. I hold a **CompTIA Security+** and have applied skills hands-on through cloud labs, threat detection exercises, and infrastructure projects — not just coursework.
+IT professional with **3+ years in desktop support** making a deliberate move into cybersecurity. I hold a **CompTIA Security+** and have applied skills hands-on through cloud labs, threat detection exercises, and infrastructure projects, not just coursework.
 
 Currently building a **SOC home lab** with SIEM log ingestion and practising detection with **MITRE ATT\&CK**. Looking for a SOC Analyst or junior cybersecurity role where I can contribute from day one.
 
 ---
 
 ## 🛠️ Skills
-
+ 
 | Domain | Tools & Technologies |
 |--------|----------------------|
-| **Security** | Microsoft Sentinel · Microsoft Defender |
+| **Security Operations** | Microsoft Sentinel · Microsoft Defender · Log Analysis · Alert Triage · Incident Response · Threat Detection |
 | **Cloud & Identity** | Microsoft Azure · Entra ID · Intune · Microsoft 365 · RBAC |
-| **Vulnerability Management** | Nessus |
-| **Networking** | Network Security · Firewall · VLANs · VPNs  |
-| **Platforms** | Windows Server · Windows OS · Linux · VMware |
-| **Scripting** | PowerShell | Azure CLI |
+| **Vulnerability Management** | Nessus · Risk Assessment · CVE Analysis |
+| **Networking** | Firewall · VLANs · VPNs · Network Security · DNS · DHCP |
+| **Frameworks & Standards** | MITRE ATT&CK · NIST · Incident Response Lifecycle |
+| **Platforms** | Windows Server · Windows OS · Linux · Active Directory · VMware |
+| **Scripting** | PowerShell · KQL · Azure CLI |
 
 ---
 
