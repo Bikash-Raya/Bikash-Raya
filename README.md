@@ -35,7 +35,7 @@ Currently building a **SOC home lab** with SIEM log ingestion and practising det
 | **Scripting** | PowerShell |
 
 ---
-## 🧪 Projects
+## 🧪 Home Labs Projects
  
 | Project | What I Did | Tools/SKills | Repo |
 |---------|-----------|------------|------|
