@@ -37,7 +37,7 @@ Currently building a **SOC home lab** with SIEM log ingestion and practising det
 ---
 ## 🧪 Projects
  
-| Project | What I Did | Tools Used | Repo |
+| Project | What I Did | Tools/SKills | Repo |
 |---------|-----------|------------|------|
 | **Microsoft Sentinel SIEM – SOC Lab** | Deployed a hybrid SIEM lab onboarding Windows, Linux, and Azure endpoints via Azure Arc; built KQL detection rules and triggered/resolved a real incident in Sentinel | Microsoft Sentinel · Azure Arc · AMA · Log Analytics · KQL · DCR · RBAC | [🔗 View](https://github.com/Bikash-Raya/Microsoft-Sentinel-SIEM-SOC-Lab--Hybrid-Endpoint-Monitoring-Threat-Detection-and-Incident-Response) |
 | **On-Prem Home Lab – AD, Domain Controller, Windows 11 & Linux** | Built a virtualised on-prem network with Windows Server 2022 as Domain Controller, joined Windows 11 and Kali Linux clients, configured AD DS, DNS, and resolved cross-platform connectivity issues | VMware · Windows Server 2022 · Active Directory · DNS · Windows 11 · Kali Linux · PowerShell | [🔗 View](https://github.com/Bikash-Raya/Home-Lab--OnPrem-Windows-Server-Active-Directory-Domain-Controller-Windows-11-Linux) |
@@ -51,7 +51,7 @@ Currently building a **SOC home lab** with SIEM log ingestion and practising det
  
 ## 🏢 Forage Cybersecurity Virtual Internships
  
-| Simulation | Company | What I Did | Tools Used | Repo | Certificate |
+| Simulation | Company | What I Did | Tools/Skills | Repo | Certificate |
 |------------|---------|------------|------------|------|-------------|
 | Cybersecurity Analyst | Tata | Assessed an organisation's cybersecurity posture and provided strategic security advisory recommendations | Threat Analysis · Risk Reporting · Security Frameworks | — | [🔗 View](https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gmf3ypEXBj2wvfQWC_ifobHAoMjQs9s6bKS_HG5z6cFBsTiHgMNhb_1776147302554_completion_certificate.pdf) |
 | Shields Up Cybersecurity | AIG | Responded to a ransomware threat scenario, assessed vulnerabilities, and drafted an incident response communication | Incident Response · Vulnerability Assessment · Ransomware Analysis | — | [🔗 View](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/AIG/2ZFnEGEDKTQMtEv9C_AIG_HG5z6cFBsTiHgMNhb_1702523682604_completion_certificate.pdf) |
