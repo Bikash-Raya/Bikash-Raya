@@ -24,12 +24,11 @@ Currently building a **SOC home lab** with SIEM log ingestion and practising det
 
 ## 🛠️ Skills
 
-
-| Domain | Tools & Technologies |
+| | |
 |--------|----------------------|
 | **Security Operations (SIEM & EDR)** | Microsoft Sentinel · KQL · Microsoft Defender · Log Analytics · Alert Triage · Incident Response |
-| **Cloud & Identity** | Microsoft Azure · Entra ID · Intune · Microsoft 365 · AD·  RBAC  |
-| **Systems & Networking** | Windows Server  · Linux · VMware · DNS · DHCP · Firewalls |
+| **Cloud & Identity** | Microsoft Azure · Entra ID · Intune · Microsoft 365 · AD · RBAC |
+| **Systems & Networking** | Windows Server · Linux · VMware · DNS · DHCP · Firewalls |
 | **Automation & Scripting** | PowerShell · Python Basics |
 | **Security Frameworks & Concepts** | MITRE ATT&CK · NIST CSF · CIS Controls · Zero Trust · Vulnerability Management |
 
