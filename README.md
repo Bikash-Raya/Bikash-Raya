@@ -44,7 +44,7 @@ Currently building a **SOC home lab** with SIEM log ingestion and practising det
 | **Enterprise IT Infrastructure Design & Deployment** | Designed and deployed a full enterprise network for a simulated college — AD with OU structure, RBAC, Microsoft 365 integration, Fortinet firewall, and end-to-end validation testing | Active Directory · Microsoft 365 · Fortinet Firewall · RBAC · VLAN · Switching | [🔗 View](https://github.com/Bikash-Raya/IT-Infrastructure-Design-Deployment-Homelab-Project) |
 | **Azure Cloud Environment – Identity & RBAC** | Provisioned Windows Server 2016 via Azure CLI, configured dynamic group membership based on user attributes, and implemented custom RBAC roles for delegated access control | Azure CLI · Windows Server 2016 · Entra ID · Dynamic Groups · RBAC | [🔗 View](https://github.com/Bikash-Raya/Azure_Cloud_Environment_Setup_Identity_-_RBAC_Implementation-) |
 | **Azure Windows 11 VM – Full Lifecycle Administration** | Provisioned a Windows 11 VM in Azure, configured RDP access, managed user accounts and RBAC, performed troubleshooting and software deployment, then fully decommissioned the environment | Azure · Windows 11 · RDP · Entra ID · RBAC | [🔗 View](https://github.com/Bikash-Raya/Azure-Cloud-Windows-11-Virtual-Machine-Deployment-RDP-Administration-User-Lifecycle-Management-RBAC-) |
-| **APT Threat Analysis & Risk Report** | Investigated APT34 (OILRIG) using OSINT and MITRE ATT&CK, produced a threat intelligence report, and delivered a risk assessment with inherent, current, and target risk ratings | MITRE ATT&CK · OSINT · NIST · Risk Matrix | [🔗 View](https://github.com/Bikash-Raya/Datacom-Cybersecurity-Job-Simulation) |
+
 
  
 ---
