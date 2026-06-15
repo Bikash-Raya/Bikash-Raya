@@ -27,11 +27,11 @@ Currently building a **SOC home lab** with SIEM log ingestion and practising det
 
 | Domain | Tools & Technologies |
 |--------|----------------------|
-| **Security Operations** | Microsoft Sentinel · KQL · Microsoft Defender · Log Analytics · Alert Triage · Incident Detection & Response |
-| **Cloud & Identity** | Microsoft Azure · Entra ID · Intune · RBAC · Azure NSG · Microsoft 365 |
-| **Systems & Networking** | Windows Server · Active Directory · Linux · VMware · DNS · DHCP · Firewall |
-| **Scripting & Automation** | PowerShell |
-| **Security Concepts & Frameworks** | MITRE ATT&CK · NIST · CIS Controls · Zero Trust · Vulnerability Management |
+| **Security Operations (SIEM & EDR)** | Microsoft Sentinel · KQL · Microsoft Defender · Log Analytics · Alert Triage · Incident Response |
+| **Cloud & Identity** | Microsoft Azure · Entra ID · Intune · Microsoft 365 · AD·  RBAC  |
+| **Systems & Networking** | Windows Server  · Linux · VMware · DNS · DHCP · Firewalls |
+| **Automation & Scripting** | PowerShell · Python Basics |
+| **Security Frameworks & Concepts** | MITRE ATT&CK · NIST CSF · CIS Controls · Zero Trust · Vulnerability Management |
 
 ---
 ## 🧪 Home Labs Projects
