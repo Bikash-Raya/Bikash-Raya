@@ -13,7 +13,7 @@
 
 ---
 
-## 👋 About Me
+## 👋 Who I Am
 
 IT professional with **2+ years in desktop support** making a deliberate move into cybersecurity. I hold a **CompTIA Security+** and have built everything in this portfolio through **hands-on labs** — not just coursework.
 
