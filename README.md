@@ -24,19 +24,24 @@ Currently targeting **SOC Analyst, Security Analyst, and GRC Analyst** roles whe
 ---
 
 ## 🛠️ Skills
+ 
 
+ 
 | | |
-|--------|----------------------|
-| **Security Operations (SIEM & Detection)** | Microsoft Sentinel · Microsoft Defender XDR · KQL · Log Analytics · Alert Triage · Incident Response · Sysmon · DCR |
-| **Threat Hunting & Analysis** | MITRE ATT&CK · Hypothesis-Driven Hunting · IOC Investigation · CISA Advisory Analysis · Threat Intelligence |
-| **Vulnerability Management** | Tenable Nessus · Credentialed Scanning · CVSS Scoring · Remediation Planning · GPO-Based Hardening |
-| **Web Application Security** | OWASP ZAP · DAST · Burp Suite Concepts · OWASP Top 10 · KQL Web Scanning |
-| **Cloud & Identity** | Microsoft Azure · Entra ID · RBAC · Azure IAM · Intune · Microsoft 365 · Active Directory |
-| **GRC & Compliance** | NIST CSF · ISO 27001:2022 · NIST SP 800-63B · HIPAA · Policy Development · Risk Assessment · Incident Playbooks |
-| **Systems & Networking** | Windows Server · Linux · VMware · DNS · DHCP · Firewalls · NSG |
-| **Scripting & Automation** | PowerShell · Python Basics · Hydra · PS2EXE |
-
+|--|--|
+| 🔵 **SOC / Blue Team** | Microsoft Sentinel · Defender XDR · KQL · Log Analytics · Alert Triage · Incident Response · Sysmon · DCR |
+| 🎯 **Threat Hunting** | MITRE ATT&CK · Hypothesis-Driven Hunting · IOC Investigation · CISA Advisory Analysis · Threat Intel |
+| ⚔️ **Offensive Security** | Hydra · Metasploit Concepts · Brute Force · Attack Simulation · Kali Linux |
+| 🔴 **Vulnerability Mgmt** | Tenable Nessus · Credentialed Scanning · CVSS Scoring · Remediation Planning · GPO-Based Hardening |
+| 🌐 **Web App Security** | OWASP ZAP · DAST · OWASP Top 10 · Burp Suite Concepts |
+| ☁️ **Cloud & Identity** | Microsoft Azure · Entra ID · RBAC · Azure IAM · Intune · Microsoft 365 · Active Directory |
+| 📋 **GRC & Compliance** | NIST CSF · ISO 27001:2022 · NIST SP 800-63B · HIPAA · Policy Development · Risk Assessment · Playbooks |
+| 🖥️ **Systems & Networking** | Windows Server · Linux · VMware · DNS · DHCP · Firewalls · VLANs · NSG |
+| 🛠️ **Scripting & Automation** | PowerShell · Python Basics |
+ 
 ---
+
+## 🧪 Labs & Projects
 
 ## 🔵 Security Operations & Blue Team Labs
 
