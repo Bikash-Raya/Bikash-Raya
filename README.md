@@ -8,18 +8,16 @@
   </a>
   <img src="https://img.shields.io/badge/Current%20Role-IT%20Desktop%20Support-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Career%20Focus-Cybersecurity-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Cybersecurity%20Roles-brightgreen?style=for-the-badge"/>
+
 </p>
 
 ---
 
 ## 👋 Who I Am
 
-IT professional with **2+ years in desktop support** making a deliberate move into cybersecurity. I hold a **CompTIA Security+** and have built everything in this portfolio through **hands-on labs** — not just coursework.
+IT professional with 2+ years in desktop support making a deliberate move into cybersecurity. I hold a **CompTIA Security+** and have built everything in this portfolio through **hands-on labs** not just coursework. 
 
-My labs cover the full security operations lifecycle: **SIEM deployment, threat detection, vulnerability management, incident response, threat hunting, web application security, cloud IAM, and GRC policy development** — all built in real Azure environments using real tools.
-
-Currently targeting **SOC Analyst, Security Analyst, and GRC Analyst** roles where I can contribute from day one.
+My labs cover the full security operations lifecycle: **SIEM deployment, threat detection, vulnerability management, incident response, threat hunting, web application security, cloud IAM, and GRC policy development** all built in real Azure environments using real tools.
 
 ---
 
@@ -41,7 +39,7 @@ Currently targeting **SOC Analyst, Security Analyst, and GRC Analyst** roles whe
  
 ---
 
-## 🧪 Labs & Projects
+## 🧪 Cybersecurity Labs & Projects
 
 ## 🔵 Security Operations & Blue Team Labs
 
