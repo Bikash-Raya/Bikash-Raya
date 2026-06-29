@@ -3,9 +3,7 @@
 <h3 align="center">IT Desktop Support Engineer → Cybersecurity | CompTIA Security+ Certified</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bikash-raya/">
-    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+ 
   <img src="https://img.shields.io/badge/Current%20Role-IT%20Desktop%20Support-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Career%20Focus-Cybersecurity-orange?style=for-the-badge"/>
 
