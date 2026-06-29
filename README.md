@@ -15,7 +15,7 @@
 
 IT professional with 2+ years in desktop support making a deliberate move into cybersecurity. I hold a **CompTIA Security+** and have built everything in this portfolio through **hands-on labs** not just coursework. 
 
-My  hands-on labs cover the full security operations lifecycle: **SIEM deployment, threat detection, vulnerability management, incident response, threat hunting, web application security, cloud IAM, and GRC policy development** all built in real Azure cloud environments using real tools.
+My  hands-on labs cover the full security operations lifecycle: **SIEM deployment, threat detection, vulnerability management, incident response, threat hunting, web application security, cloud IAM, and GRC policy development** all built in Azure cloud environments and On-premises.
 
 ---
 
