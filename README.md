@@ -21,7 +21,7 @@ My hands-on labs cover the full security operations lifecycle: **SIEM deployment
 
 | | |
 |--|--|
-| 🔵 **SOC / Blue Team** | Microsoft Sentinel · Defender XDR · KQL · Log Analytics · Alert Triage · Incident Response · Sysmon · DCR |
+| 🔵 **SOC / Blue Team** | Microsoft Sentinel · Defender XDR · KQL · Log Analytics · Alert Triage · Incident Response  |
 | 🎯 **Threat Hunting** | MITRE ATT&CK · Hypothesis-Driven Hunting · IOC Investigation · CISA Advisory Analysis · Threat Intel |
 | ⚔️ **Offensive Security** | Hydra · Metasploit Concepts · Brute Force · Attack Simulation · Kali Linux |
 | 🔴 **Vulnerability Mgmt** | Tenable Nessus · Credentialed Scanning · CVSS Scoring · Remediation Planning · GPO-Based Hardening |
