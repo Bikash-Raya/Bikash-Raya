@@ -47,7 +47,7 @@ My hands-on labs cover the full security operations lifecycle: **SIEM deployment
 
 ---
 
-## 🔴 Offensive Security & Vulnerability Management Labs
+## 🔴 Vulnerability Management Labs
 
 | Project | What I Did | Tools / Skills | Repo |
 |---------|-----------|----------------|------|
