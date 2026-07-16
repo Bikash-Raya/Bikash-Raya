@@ -17,7 +17,7 @@ My hands-on labs cover the full security operations lifecycle: **SIEM deployment
 
 ---
 
-## 🧪 Cybersecurity Labs & Projects
+## 🧪 Cybersecurity Hands-on Labs 
 
 ## 🔵 Security Operations and IR Labs
 
@@ -68,18 +68,7 @@ My hands-on labs cover the full security operations lifecycle: **SIEM deployment
 
 ---
 
-## 🏢 Forage Cybersecurity Virtual Internships
 
-| Simulation | Company | What I Did | Tools / Skills | Repo | Certificate |
-|------------|---------|-----------|----------------|------|-------------|
-| Cybersecurity Analyst | Tata | • Assessed an organisation's cybersecurity posture<br>• Provided strategic security advisory recommendations | Threat Analysis · Risk Reporting · Security Frameworks | — | [🔗 View Full Report](https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gmf3ypEXBj2wvfQWC_ifobHAoMjQs9s6bKS_HG5z6cFBsTiHgMNhb_1776147302554_completion_certificate.pdf) |
-| Shields Up Cybersecurity | AIG | • Responded to a ransomware threat scenario and assessed vulnerabilities<br>• Drafted an incident response communication | Incident Response · Vulnerability Assessment · Ransomware Analysis | — | [🔗 View Full Report](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/AIG/2ZFnEGEDKTQMtEv9C_AIG_HG5z6cFBsTiHgMNhb_1702523682604_completion_certificate.pdf) |
-| Cyber Security Management | ANZ Australia | • Investigated phishing emails and analysed PCAP network traffic<br>• Extracted hidden files and recovered Base64-encoded data | Wireshark · HxD · PCAP Analysis · Base64 Decoding | [🔗 Repo](https://github.com/Bikash-Raya/ANZ-Cyber-Security-Job-Simulation) | [🔗 View Full Report](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ANZ/Hf4QMESoFeQwXPsiH_ANZ%20Australia_HG5z6cFBsTiHgMNhb_1702344768941_completion_certificate.pdf) |
-| Cybersecurity Job Simulation | Mastercard | • Designed a phishing simulation and analysed results to identify vulnerable teams<br>• Created targeted security awareness training | Phishing Simulation · Security Awareness · Presentation | [🔗 Repo](https://github.com/Bikash-Raya/Mastercard-Cybersecurity-Job-Simulation-Forage-) | [🔗 View Full Report](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_HG5z6cFBsTiHgMNhb_1702348419111_completion_certificate.pdf) |
-| Cybersecurity Job Simulation | Telstra | • Triaged a network malware incident and identified affected systems<br>• Drafted a technical mitigation response | Incident Triage · Network Security · Malware Analysis | — | [🔗 View Full Report](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Telstra%20AU/RNhbu8QnDzthwynEf_Telstra_HG5z6cFBsTiHgMNhb_1701832539937_completion_certificate.pdf) |
-| Cybersecurity Job Simulation | Datacom | • Investigated APT34 (OILRIG) breach using OSINT and MITRE ATT&CK<br>• Delivered a risk assessment with inherent, current, and target risk ratings | MITRE ATT&CK · OSINT · NIST · Risk Matrix | [🔗 Repo](https://github.com/Bikash-Raya/Datacom-Cybersecurity-Job-Simulation) | [🔗 View Full Report](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Datacom/yTszJTvkHFBH6zAn3_Datacom_HG5z6cFBsTiHgMNhb_1702609391245_completion_certificate.pdf) |
-
----
 
 ## 🛠️ Skills
 
@@ -96,15 +85,20 @@ My hands-on labs cover the full security operations lifecycle: **SIEM deployment
 | 🛠️ **Scripting & Automation** | PowerShell · Python Basics |
 
 ---
----
 
-## 🎓 Certifications
+## 🎓 Certifications & Professional Training
 
-| Certification | Issuer | Credential |
-|---------------|--------|------------|
+| Qualification | Provider | Credential |
+|--------------|----------|------------|
 | **CompTIA Security+** | CompTIA | [🔗 Verify](https://www.credly.com/badges/f489e367-4616-4da9-b3d1-fa2217abc36e) |
-| **Google Cybersecurity Professional Certificate** | Google | [🔗 Verify](https://www.credly.com/badges/43176bd9-b0f9-4f68-8dfb-d91f18e5b55e/linked_in_profile) |
-| **SC-200: Microsoft Security Operations Analyst** | Microsoft (via Udemy) | [🔗 Verify](https://www.udemy.com/certificate/UC-fab0f971-1d91-44f7-83e9-56952a75d336/) |
+| **Google Cybersecurity Professional Certificate** | Coursera | [🔗 Verify](https://www.credly.com/badges/43176bd9-b0f9-4f68-8dfb-d91f18e5b55e/linked_in_profile) |
+| **SC-200: Microsoft Security Operations Analyst** | Udemy | [🔗 Certificate](https://www.udemy.com/certificate/UC-fab0f971-1d91-44f7-83e9-56952a75d336/) |
+| **Tata Cybersecurity Simulation** | Forage | [🔗 Certificate](https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gmf3ypEXBj2wvfQWC_ifobHAoMjQs9s6bKS_HG5z6cFBsTiHgMNhb_1776147302554_completion_certificate.pdf) |
+| **AIG Cybersecurity Simulation** | Forage | [🔗 Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/AIG/2ZFnEGEDKTQMtEv9C_AIG_HG5z6cFBsTiHgMNhb_1702523682604_completion_certificate.pdf) |
+| **ANZ Cyber Security Management Simulation** | Forage | [🔗 Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ANZ/Hf4QMESoFeQwXPsiH_ANZ%20Australia_HG5z6cFBsTiHgMNhb_1702344768941_completion_certificate.pdf) |
+| **Mastercard Cybersecurity Simulation** | Forage | [🔗 Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_HG5z6cFBsTiHgMNhb_1702348419111_completion_certificate.pdf) |
+| **Telstra Cybersecurity Simulation** | Forage | [🔗 Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Telstra%20AU/RNhbu8QnDzthwynEf_Telstra_HG5z6cFBsTiHgMNhb_1701832539937_completion_certificate.pdf) |
+| **Datacom Cybersecurity Simulation** | Forage | [🔗 Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Datacom/yTszJTvkHFBH6zAn3_Datacom_HG5z6cFBsTiHgMNhb_1702609391245_completion_certificate.pdf) |
 
 ---
 
