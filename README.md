@@ -90,8 +90,8 @@ My hands-on labs cover the full security operations lifecycle: **SIEM deployment
 
 | Qualification | Provider | Credential |
 |--------------|----------|------------|
-| **CompTIA Security+** | CompTIA | [🔗 Verify](https://www.credly.com/badges/f489e367-4616-4da9-b3d1-fa2217abc36e) |
-| **Google Cybersecurity Professional Certificate** | Coursera | [🔗 Verify](https://www.credly.com/badges/43176bd9-b0f9-4f68-8dfb-d91f18e5b55e/linked_in_profile) |
+| **CompTIA Security+** | CompTIA | [🔗 Certificate](https://www.credly.com/badges/f489e367-4616-4da9-b3d1-fa2217abc36e) |
+| **Google Cybersecurity Professional Certificate** | Coursera | [🔗 Certificate](https://www.credly.com/badges/43176bd9-b0f9-4f68-8dfb-d91f18e5b55e/linked_in_profile) |
 | **SC-200: Microsoft Security Operations Analyst** | Udemy | [🔗 Certificate](https://www.udemy.com/certificate/UC-fab0f971-1d91-44f7-83e9-56952a75d336/) |
 | **Tata Cybersecurity Simulation** | Forage | [🔗 Certificate](https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gmf3ypEXBj2wvfQWC_ifobHAoMjQs9s6bKS_HG5z6cFBsTiHgMNhb_1776147302554_completion_certificate.pdf) |
 | **AIG Cybersecurity Simulation** | Forage | [🔗 Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/AIG/2ZFnEGEDKTQMtEv9C_AIG_HG5z6cFBsTiHgMNhb_1702523682604_completion_certificate.pdf) |
