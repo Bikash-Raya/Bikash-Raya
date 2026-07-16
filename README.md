@@ -17,27 +17,11 @@ My hands-on labs cover the full security operations lifecycle: **SIEM deployment
 
 ---
 
-## 🛠️ Skills
-
-| | |
-|--|--|
-| 🔵 **SOC and IR** | Microsoft Sentinel · Defender XDR · KQL · Log Analytics · Alert Triage · Incident Response  |
-| 🎯 **Threat Hunting** | MITRE ATT&CK · Hypothesis-Driven Hunting · IOC Investigation · CISA Advisory Analysis · Threat Intel |
-| ⚔️ **Offensive Security** | Hydra · Metasploit Concepts · Brute Force · Attack Simulation · Kali Linux |
-| 🔴 **Vulnerability Mgmt** | Tenable Nessus · Credentialed Scanning · CVSS Scoring · Remediation Planning · GPO-Based Hardening |
-| 🌐 **Web App Security** | OWASP ZAP · DAST · OWASP Top 10 · Burp Suite Concepts |
-| ☁️ **Cloud & Identity** | Microsoft Azure · Entra ID · RBAC · Azure IAM · Intune · Microsoft 365 · Active Directory |
-| 📋 **GRC & Compliance** | NIST CSF · ISO 27001:2022 · NIST SP 800-63B · HIPAA · Policy Development · Risk Assessment · Playbooks |
-| 🖥️ **Systems & Networking** | Windows Server · Linux · VMware · DNS · DHCP · Firewalls · VLANs · NSG |
-| 🛠️ **Scripting & Automation** | PowerShell · Python Basics |
-
----
-
 ## 🧪 Cybersecurity Labs & Projects
 
 ## 🔵 Security Operations and IR Labs
 
-| Project | What I Did | Tools / Skills | Detailed Report Link |
+| Project | What I Did | Tools / Skills | Hands-on Report Link |
 |---------|-----------|----------------|------|
 | **SOC Incident Response Lab** | • Deployed Windows Server (victim) and Ubuntu (attacker) VMs; ran Hydra RDP brute force and detected login events via KQL (Event IDs 4624/4625)<br>• Built a custom analytics rule mapped to MITRE T1110; performed full SOC incident response in Defender XDR | Microsoft Sentinel · Defender XDR · Hydra · KQL · Sysmon · Azure NSG · AMA · DCR · MITRE ATT&CK | [🔗 View Full Report](https://github.com/Bikash-Raya/Sentinel-Defender-XDR-SOC-Incident-Response-lab) |
 | **GeoIP Watchlist & Global Attack Map Lab** | • Exposed Web01 for ~2 days to collect 4,270+ real-world RDP attacks from global threat actors<br>• Built a KQL workbook using ipv4_lookup() to enrich attacker IPs and render a global heat map | Microsoft Sentinel · KQL · ipv4_lookup() · Watchlist · Workbook · Defender XDR | [🔗 View Full Report](https://github.com/Bikash-Raya/microsoft-sentinel-geoip-watchlist-attack-map) |
@@ -95,6 +79,23 @@ My hands-on labs cover the full security operations lifecycle: **SIEM deployment
 | Cybersecurity Job Simulation | Telstra | • Triaged a network malware incident and identified affected systems<br>• Drafted a technical mitigation response | Incident Triage · Network Security · Malware Analysis | — | [🔗 View Full Report](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Telstra%20AU/RNhbu8QnDzthwynEf_Telstra_HG5z6cFBsTiHgMNhb_1701832539937_completion_certificate.pdf) |
 | Cybersecurity Job Simulation | Datacom | • Investigated APT34 (OILRIG) breach using OSINT and MITRE ATT&CK<br>• Delivered a risk assessment with inherent, current, and target risk ratings | MITRE ATT&CK · OSINT · NIST · Risk Matrix | [🔗 Repo](https://github.com/Bikash-Raya/Datacom-Cybersecurity-Job-Simulation) | [🔗 View Full Report](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Datacom/yTszJTvkHFBH6zAn3_Datacom_HG5z6cFBsTiHgMNhb_1702609391245_completion_certificate.pdf) |
 
+---
+
+## 🛠️ Skills
+
+| | |
+|--|--|
+| 🔵 **SOC and IR** | Microsoft Sentinel · Defender XDR · KQL · Log Analytics · Alert Triage · Incident Response  |
+| 🎯 **Threat Hunting** | MITRE ATT&CK · Hypothesis-Driven Hunting · IOC Investigation · CISA Advisory Analysis · Threat Intel |
+| ⚔️ **Offensive Security** | Hydra · Metasploit Concepts · Brute Force · Attack Simulation · Kali Linux |
+| 🔴 **Vulnerability Mgmt** | Tenable Nessus · Credentialed Scanning · CVSS Scoring · Remediation Planning · GPO-Based Hardening |
+| 🌐 **Web App Security** | OWASP ZAP · DAST · OWASP Top 10 · Burp Suite Concepts |
+| ☁️ **Cloud & Identity** | Microsoft Azure · Entra ID · RBAC · Azure IAM · Intune · Microsoft 365 · Active Directory |
+| 📋 **GRC & Compliance** | NIST CSF · ISO 27001:2022 · NIST SP 800-63B · HIPAA · Policy Development · Risk Assessment · Playbooks |
+| 🖥️ **Systems & Networking** | Windows Server · Linux · VMware · DNS · DHCP · Firewalls · VLANs · NSG |
+| 🛠️ **Scripting & Automation** | PowerShell · Python Basics |
+
+---
 ---
 
 ## 🎓 Certifications
