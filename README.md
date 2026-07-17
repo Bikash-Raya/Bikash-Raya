@@ -1,11 +1,21 @@
+
+
 <h1 align="center">Bikash Raya</h1>
 
-<h3 align="center">IT Desktop Support Engineer → Cybersecurity | CompTIA Security+ Certified</h3>
+<p align="center">
+  <b>IT Support → Cybersecurity | 3+ Years IT Experience | CompTIA Security+</b><br>
+  <i>Building hands-on security skills through real Azure labs, live attack data, and tool-based detection</i>
+</p>
+
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Current%20Role-IT%20Desktop%20Support-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Career%20Focus-Cybersecurity-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B%20Certified-FF0000?style=flat-square&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft-SC--200-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google-Cybersecurity%20Certificate-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/🧪%20Labs-15%2B%20Hands--On%20Projects-222222?style=flat-square" />
+  <img src="https://img.shields.io/badge/📍-Australia-lightgrey?style=flat-square" />
 </p>
+
 
 ---
 
