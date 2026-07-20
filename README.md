@@ -79,7 +79,7 @@ My hands-on labs cover the full security operations lifecycle: **SIEM deployment
 <div>
     <img src="https://img.shields.io/badge/-GPO-333333?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Lynis-333333?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/-Microsoft_Security_Compliance_Toolkit-E4002B?&style=for-the-badge&logo=microsoft&logoColor=white" />
 </div>
 
 ---
