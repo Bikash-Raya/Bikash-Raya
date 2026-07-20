@@ -20,13 +20,69 @@
 
 ## 👋 Who I Am
 
-IT professional with 2+ years in desktop support making a deliberate move into cybersecurity. I hold a **CompTIA Security+** and have built everything in this portfolio through **hands-on labs** not just coursework.
+IT professional with 2+ years in desktop support, transitioning into cybersecurity.
 
 My hands-on labs cover the full security operations lifecycle: **SIEM deployment, threat detection, vulnerability management, incident response, threat hunting, web application security, cloud IAM, and GRC policy development** all built in Azure cloud and on-premises environments.
 
 ---
+
+## Skills
  
-## 🧪 Cybersecurity Hands-on Labs
+| Skill                                              | Associated Project |
+|-----------------------------------------------------|---------------------|
+| SIEM Deployment & Incident Response                  | <a href="https://github.com/Bikash-Raya/Sentinel-Defender-XDR-SOC-Incident-Response-lab">SOC Incident Response Lab</a> |
+| GeoIP Threat Intelligence & Log Enrichment           | <a href="https://github.com/Bikash-Raya/microsoft-sentinel-geoip-watchlist-attack-map">GeoIP Watchlist & Attack Map Lab</a> |
+| Threat Hunting & IOC Investigation                   | <a href="https://github.com/Bikash-Raya/Threat-Hunting-Lab-Sentinel-Sysmon--lummac2-">Threat Hunting Lab</a> |
+| Web App Exploit Detection & Containment              | <a href="https://github.com/Bikash-Raya/vulnerable-webserver-rce-detection-incident-response-">Vulnerable Web Server RCE Lab</a> |
+| Hybrid Cloud Endpoint Monitoring                     | <a href="https://github.com/Bikash-Raya/Microsoft-Sentinel-SIEM-SOC-Lab--Hybrid-Endpoint-Monitoring-Threat-Detection-and-Incident-Response">Hybrid Endpoint Monitoring Lab</a> |
+| Honeynet Deployment & Live Attack Detection          | <a href="https://github.com/Bikash-Raya/Azure-Honeynet-Live-Attack-Detection-NSG-SQL-Microsoft-Sentinel">Azure Honeynet Lab</a> |
+| Credentialed Vulnerability Scanning                  | <a href="https://github.com/Bikash-Raya/Nessus-Vulnerability-Management-Lab">Nessus Vulnerability Management Lab</a> |
+| Web App DAST Assessment                              | <a href="https://github.com/Bikash-Raya/Web-Application-Security-OWASP-ZAP">OWASP ZAP Lab</a> |
+| Windows/Linux/AD Hardening                           | <a href="https://github.com/Bikash-Raya/system-hardening-lab-linux-windows-active-directory">System Hardening Lab</a> |
+| AD Privilege Escalation Enumeration                  | <a href="https://github.com/Bikash-Raya/AD-Enumeration-Bloodhound-Sharphound">BloodHound & SharpHound Lab</a> |
+| Cloud IAM, RBAC & MFA                                | <a href="https://github.com/Bikash-Raya/azure-iam-security-lab">Azure IAM Security Lab</a> |
+| Azure Identity & RBAC Configuration                  | <a href="https://github.com/Bikash-Raya/Azure_Cloud_Environment_Setup_Identity_-_RBAC_Implementation-">Azure Cloud — Identity & RBAC Lab</a> |
+| Azure VM Provisioning & User Lifecycle Management    | <a href="https://github.com/Bikash-Raya/Azure-Cloud-Windows-11-Virtual-Machine-Deployment-RDP-Administration-User-Lifecycle-Management-RBAC-">Azure Windows VM Administration Lab</a> |
+| On-Prem AD Domain Controller & DNS Configuration     | <a href="https://github.com/Bikash-Raya/Home-Lab--OnPrem-Windows-Server-Active-Directory-Domain-Controller-Windows-11-Linux">On-Prem AD, DC, Windows 11 & Linux Lab</a> |
+| Enterprise Network Design & Firewall Deployment      | <a href="https://github.com/Bikash-Raya/IT-Infrastructure-Design-Deployment-Homelab-Project">Enterprise IT Infrastructure Design & Deployment</a> |
+| GRC Policy & Incident Playbook Development           | <a href="https://github.com/Bikash-Raya/healthcare-cybersecurity-grc-portfolio">Policy and Playbook Development</a> |
+| Risk Assessment & Controls Mapping                   | <a href="https://github.com/Bikash-Raya/Cyber-Risk-Assessment">Cyber Risk Assessment</a> |
+ 
+## Tools
+ 
+### SIEM & Detection
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_XDR-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+</div>
+### Vulnerability Management
+<div>
+    <img src="https://img.shields.io/badge/-Tenable_Nessus-00A98F?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OWASP_ZAP-FF6600?&style=for-the-badge&logo=owasp&logoColor=white" />
+</div>
+### Active Directory Security
+<div>
+    <img src="https://img.shields.io/badge/-BloodHound-2C3E50?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SharpHound-2C3E50?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PingCastle-C0392B?&style=for-the-badge&logoColor=white" />
+</div>
+### Cloud & Identity
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Azure-0089D6?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Entra_ID-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+</div>
+### Systems & Hardening
+<div>
+    <img src="https://img.shields.io/badge/-GPO-333333?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Lynis-333333?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
+</div>
+
+
+---
+ 
+
+## Projects
  
 ### 🔵 Security Operations & Incident Response
  
