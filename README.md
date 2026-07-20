@@ -48,44 +48,9 @@ My hands-on labs cover the full security operations lifecycle: **SIEM deployment
 | GRC Policy & Incident Playbook Development           | <a href="https://github.com/Bikash-Raya/healthcare-cybersecurity-grc-portfolio">Policy and Playbook Development</a> |
 | Risk Assessment & Controls Mapping                   | <a href="https://github.com/Bikash-Raya/Cyber-Risk-Assessment">Cyber Risk Assessment</a> |
  
-## Tools
  
-### SIEM & Detection
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_XDR-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-</div>
-
-### Vulnerability Management
-<div>
-    <img src="https://img.shields.io/badge/-Tenable_Nessus-00A98F?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-OWASP_ZAP-FF6600?&style=for-the-badge&logo=owasp&logoColor=white" />
-</div>
-
-### Active Directory Security
-<div>
-    <img src="https://img.shields.io/badge/-BloodHound-2C3E50?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SharpHound-2C3E50?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-PingCastle-C0392B?&style=for-the-badge&logoColor=white" />
-</div>
-
-### Cloud & Identity
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Azure-0089D6?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft_Entra_ID-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-</div>
-
-### Systems & Hardening
-<div>
-    <img src="https://img.shields.io/badge/-GPO-333333?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Lynis-333333?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-Microsoft_Security_Compliance_Toolkit-E4002B?&style=for-the-badge&logo=microsoft&logoColor=white" />
-</div>
-
 ---
- 
-
-## Projects
+## Hands-on cybersecurity labs
  
 ### 🔵 Security Operations & Incident Response
  
@@ -145,9 +110,38 @@ My hands-on labs cover the full security operations lifecycle: **SIEM deployment
 | **Enterprise IT Infrastructure Design & Deployment** | • Designed and deployed a full enterprise network for a simulated college with AD OU structure, RBAC, and Microsoft 365 integration<br>• Configured a Fortinet firewall and performed end-to-end validation testing | Active Directory · Microsoft 365 · Fortinet Firewall · RBAC · VLAN | [🔗 View](https://github.com/Bikash-Raya/IT-Infrastructure-Design-Deployment-Homelab-Project) |
  
 ---
+<p>
+<img src="https://img.shields.io/badge/Microsoft-Sentinel-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Defender-XDR-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/KQL-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Log-Analytics-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Hydra-Brute_Force-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/Kali-Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Tenable-Nessus-00ADEF?style=flat-square&logo=tenable&logoColor=white" />
+<img src="https://img.shields.io/badge/OWASP-ZAP-005A9C?style=flat-square&logo=owasp&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp-Suite-FF6633?style=flat-square" />
+<img src="https://img.shields.io/badge/Microsoft-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft-Entra_ID-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-RBAC-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-IAM-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft-Intune-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft-365-D83B01?style=flat-square&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Active-Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows-Server-0078D4?style=flat-square&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" />
+<img src="https://img.shields.io/badge/DNS-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/DHCP-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/Firewalls-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/VLANs-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/Azure-NSG-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</p>
 
+---
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
 | | |
 |--|--|
