@@ -55,29 +55,32 @@ My hands-on labs cover the full security operations lifecycle: **SIEM deployment
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_Defender_XDR-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
+
 ### Vulnerability Management
 <div>
     <img src="https://img.shields.io/badge/-Tenable_Nessus-00A98F?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-OWASP_ZAP-FF6600?&style=for-the-badge&logo=owasp&logoColor=white" />
 </div>
+
 ### Active Directory Security
 <div>
     <img src="https://img.shields.io/badge/-BloodHound-2C3E50?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-SharpHound-2C3E50?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-PingCastle-C0392B?&style=for-the-badge&logoColor=white" />
 </div>
+
 ### Cloud & Identity
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Azure-0089D6?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_Entra_ID-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
+
 ### Systems & Hardening
 <div>
     <img src="https://img.shields.io/badge/-GPO-333333?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Lynis-333333?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
 </div>
-
 
 ---
  
