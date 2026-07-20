@@ -1,6 +1,6 @@
 <h1 align="center">Bikash Raya</h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=800&color=0078D4&center=true&vCenter=true&width=750&lines=Incident+Detection+%26+Response+%7C+Microsoft+Sentinel+%7C+Defender+XDR;Real+Attacker+103.168.66.101+—+82+Correlated+Events;DCR+%7C+Azure+Arc+%7C+KQL+%7C+Custom+Analytics+Rule;Collected+4%2C270%2B+RDP+Attacks+—+Built+GeoIP+Map+%28KQL%29;Simulated+LummaC2+—+Ingested+Sysmon+via+CISA+AA25-141b;BloodHound+Surfaced+AD+Privilege+Escalation+Path;OWASP+ZAP+—+Confirmed+SQL+Injection+Across+21+Alerts;Nessus+—+18+Findings%2C+Remediated+SMB+Signing;PingCastle+—+NTLMv1+Weakness+%2815+Risk+Points%29+Fixed;CompTIA+Security%2B+%7C+SC-200+%7C+Google+Cert" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=800&color=0078D4&center=true&vCenter=true&width=750&lines=Incident+Detection+%26+Response+%7C+Microsoft+Sentinel+%7C+Defender+XDR;DCR+%7C+Azure+Arc+%7C+KQL+%7C+Custom+Analytics+Rule;Collected+4%2C270%2B+RDP+Attacks+—+Built+GeoIP+Map+%28KQL%29;Simulated+LummaC2+—+Ingested+Sysmon+via+CISA+AA25-141b;BloodHound+Surfaced+AD+Privilege+Escalation+Path;OWASP+ZAP+—+Confirmed+SQL+Injection+Across+21+Alerts;Nessus+—+18+Findings%2C+Remediated+SMB+Signing;PingCastle+—+NTLMv1+Weakness+%2815+Risk+Points%29+Fixed;CompTIA+Security%2B+%7C+SC-200+%7C+Google+Cert" alt="Typing SVG" />
 <br>
 <i>Building hands-on security skills — Not just coursework — Fully documented proof of work</i>
 </p>
@@ -109,51 +109,6 @@ My hands-on labs cover the full security operations lifecycle: **SIEM deployment
 | **On-Prem AD, DC, Windows 11 & Linux** | • Built a virtualised on-prem network with Windows Server 2022 as Domain Controller<br>• Joined Windows 11 and Kali Linux clients; configured AD DS, DNS, and resolved cross-platform connectivity issues | VMware · Windows Server 2022 · Active Directory · DNS · Kali Linux · PowerShell | [🔗 View](https://github.com/Bikash-Raya/Home-Lab--OnPrem-Windows-Server-Active-Directory-Domain-Controller-Windows-11-Linux) |
 | **Enterprise IT Infrastructure Design & Deployment** | • Designed and deployed a full enterprise network for a simulated college with AD OU structure, RBAC, and Microsoft 365 integration<br>• Configured a Fortinet firewall and performed end-to-end validation testing | Active Directory · Microsoft 365 · Fortinet Firewall · RBAC · VLAN | [🔗 View](https://github.com/Bikash-Raya/IT-Infrastructure-Design-Deployment-Homelab-Project) |
  
----
-<p>
-<img src="https://img.shields.io/badge/Microsoft-Sentinel-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/Defender-XDR-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/KQL-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/Log-Analytics-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/Hydra-Brute_Force-333333?style=flat-square" />
-<img src="https://img.shields.io/badge/Kali-Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/Tenable-Nessus-00ADEF?style=flat-square&logo=tenable&logoColor=white" />
-<img src="https://img.shields.io/badge/OWASP-ZAP-005A9C?style=flat-square&logo=owasp&logoColor=white" />
-<img src="https://img.shields.io/badge/Burp-Suite-FF6633?style=flat-square" />
-<img src="https://img.shields.io/badge/Microsoft-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft-Entra_ID-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-RBAC-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-IAM-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft-Intune-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft-365-D83B01?style=flat-square&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/Active-Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/Windows-Server-0078D4?style=flat-square&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" />
-<img src="https://img.shields.io/badge/DNS-333333?style=flat-square" />
-<img src="https://img.shields.io/badge/DHCP-333333?style=flat-square" />
-<img src="https://img.shields.io/badge/Firewalls-333333?style=flat-square" />
-<img src="https://img.shields.io/badge/VLANs-333333?style=flat-square" />
-<img src="https://img.shields.io/badge/Azure-NSG-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-</p>
-
----
-
-## 🛠️ Technical Skills
-
-| | |
-|--|--|
-| 🔵 **SOC and IR** | Microsoft Sentinel · Defender XDR · KQL · Log Analytics · Alert Triage · Incident Response  |
-| 🎯 **Threat Hunting** | MITRE ATT&CK · Hypothesis-Driven Hunting · IOC Investigation · CISA Advisory Analysis · Threat Intel |
-| ⚔️ **Offensive Security** | Hydra · Metasploit Concepts · Brute Force · Attack Simulation · Kali Linux |
-| 🔴 **Vulnerability Mgmt** | Tenable Nessus · Credentialed Scanning · CVSS Scoring · Remediation Planning · GPO-Based Hardening |
-| 🌐 **Web App Security** | OWASP ZAP · DAST · OWASP Top 10 · Burp Suite Concepts |
-| ☁️ **Cloud & Identity** | Microsoft Azure · Entra ID · RBAC · Azure IAM · Intune · Microsoft 365 · Active Directory |
-| 📋 **GRC & Compliance** | NIST CSF · ISO 27001:2022 · NIST SP 800-63B · HIPAA · Policy Development · Risk Assessment · Playbooks |
-| 🖥️ **Systems & Networking** | Windows Server · Linux · VMware · DNS · DHCP · Firewalls · VLANs · NSG |
-| 🛠️ **Scripting & Automation** | PowerShell · Python Basics |
 
 ---
 
