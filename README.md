@@ -107,7 +107,7 @@ My hands-on labs cover the full security operations lifecycle: **SIEM deployment
 | Project | What I Did | Tools / Skills | Report |
 |---------|-----------|----------------|--------|
 | **On-Prem AD, DC, Windows 11 & Linux** | • Built a virtualised on-prem network with Windows Server 2022 as Domain Controller<br>• Joined Windows 11 and Kali Linux clients; configured AD DS, DNS, and resolved cross-platform connectivity issues | VMware · Windows Server 2022 · Active Directory · DNS · Kali Linux · PowerShell | [🔗 View](https://github.com/Bikash-Raya/Home-Lab--OnPrem-Windows-Server-Active-Directory-Domain-Controller-Windows-11-Linux) |
-| **Enterprise IT Infrastructure Design & Deployment** | • Designed and deployed a full enterprise network for a simulated college with AD OU structure, RBAC, and Microsoft 365 integration<br>• Configured a Fortinet firewall and performed end-to-end validation testing | Active Directory · Microsoft 365 · Fortinet Firewall · RBAC · VLAN | [🔗 View](https://github.com/Bikash-Raya/IT-Infrastructure-Design-Deployment-Homelab-Project) |
+| **Enterprise IT Infrastructure Design & Deployment** | • Designed and deployed a full enterprise network for a simulated college with AD OU structure, RBAC, and Microsoft 365 integration<br>| Active Directory · Microsoft 365 · RBAC | [🔗 View](https://github.com/Bikash-Raya/IT-Infrastructure-Design-Deployment-Homelab-Project) |
  
 
 ---
