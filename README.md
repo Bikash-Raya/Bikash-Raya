@@ -6,17 +6,18 @@
 <i>Building hands-on security skills — Not just coursework — Fully documented proof of work</i>
 </p>
 
-<p align="center" style="margin:0;">
+<div align="center" style="white-space:nowrap; overflow-x:auto; margin:0;">
   <img src="https://img.shields.io/badge/CompTIA-Security%2B%20Certified-E4002B?style=flat-square&logo=comptia&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft-SC--200%20Training-FF8C00?style=flat-square&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Google-Cybersecurity%20Certificate-34A853?style=flat-square&logo=google&logoColor=white" />
-</p>
-<p align="center" style="margin:0;">
-  <img src="https://img.shields.io/badge/Security-Sentinel%20%2B%20Defender-6C2EB5?style=flat-square&logo=microsoft&logoColor=white" />
+</div>
+
+<div align="center" style="white-space:nowrap; overflow-x:auto; margin:0;">
+  <img src="https://img.shields.io/badge/Security%20Stack-Microsoft%20Sentinel%20%2B%20Defender-6C2EB5?style=flat-square&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Vuln%20Mgmt-Nessus-00A98F?style=flat-square" />
-  <img src="https://img.shields.io/badge/Hardening-GPO%20%2B%20PingCastle-C0392B?style=flat-square" />
-  <img src="https://img.shields.io/badge/Cloud-Azure%20%2B%20Entra%20ID-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" />
-</p>
+  <img src="https://img.shields.io/badge/System%20Hardening-GPO%20%2B%20PingCastle%20%2B%20Policy%20Analyzer-C0392B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cloud%20%26%20Identity-Azure%20%2B%20Entra%20ID-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" />
+</div>
 
 
 
