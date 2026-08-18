@@ -12,7 +12,7 @@
 
 
 
-## 👋 Who I Am
+## 👋 About Me
 
 Curiosity about **how attacks happen** and **how defenders stop them** drives my cybersecurity journey. 
 
