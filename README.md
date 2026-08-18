@@ -14,7 +14,7 @@
 
 ## 👋 Who I Am
 
-IT professional with 3+ years in IT desktop support, transitioning into cybersecurity.
+Curiosity about **how attacks happen** and **how defenders stop them** drives my cybersecurity journey. 
 
 My hands-on labs cover the full security operations lifecycle: **SIEM deployment, threat detection, vulnerability management, incident response, threat hunting, web application security, cloud IAM, and GRC policy development** all built in Azure cloud and on-premises environments.
 
