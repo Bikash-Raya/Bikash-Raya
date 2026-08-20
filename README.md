@@ -41,7 +41,7 @@ My hands-on labs cover the full security operations lifecycle: **SIEM deployment
 | Enterprise Network Design & Firewall Deployment      | <a href="https://github.com/Bikash-Raya/IT-Infrastructure-Design-Deployment-Homelab-Project">Enterprise IT Infrastructure Design & Deployment</a> |
 | GRC Policy & Incident Playbook Development           | <a href="https://github.com/Bikash-Raya/healthcare-cybersecurity-grc-portfolio">Policy and Playbook Development</a> |
 | Risk Assessment & Controls Mapping                   | <a href="https://github.com/Bikash-Raya/Cyber-Risk-Assessment">Cyber Risk Assessment</a> |
- 
+| PowerShell Automation  | <a href="https://github.com/Bikash-Raya/PowerShell-AD-Group-Membership-Automation">AD Group Membership Automation</a> |
  
 ---
 ## Hands-on cybersecurity labs
@@ -103,7 +103,14 @@ My hands-on labs cover the full security operations lifecycle: **SIEM deployment
 | **On-Prem AD, DC, Windows 11 & Linux** | • Built a virtualised on-prem network with Windows Server 2022 as Domain Controller<br>• Joined Windows 11 and Kali Linux clients; configured AD DS, DNS, and resolved cross-platform connectivity issues | VMware · Windows Server 2022 · Active Directory · DNS · Kali Linux · PowerShell | [🔗 View](https://github.com/Bikash-Raya/Home-Lab--OnPrem-Windows-Server-Active-Directory-Domain-Controller-Windows-11-Linux) |
 | **Enterprise IT Infrastructure Design & Deployment** | • Designed and deployed a full enterprise network for a simulated college with AD OU structure, RBAC, and Microsoft 365 integration<br>| Active Directory · Microsoft 365 · RBAC | [🔗 View](https://github.com/Bikash-Raya/IT-Infrastructure-Design-Deployment-Homelab-Project) |
  
+---
 
+
+## ⚙️ Automation & Scripting
+
+| Project | What I Did | Tools / Skills | Repo |
+|---------|-----------|----------------|------|
+| **AD Group Membership Automation** | • Identified a repetitive IT support task — manually comparing AD group memberships between two users across multiple domains<br>• Built a PowerShell WPF GUI that queries AD, compares group memberships, and exports results to a formatted Excel file in one click | PowerShell · WPF · XAML · Active Directory · Get-ADUser · Get-ADGroup · ImportExcel | [🔗 View](https://github.com/Bikash-Raya/PowerShell-AD-Group-Membership-Automation) |
 ---
 
 ## 🎓 Certifications & Professional Training
